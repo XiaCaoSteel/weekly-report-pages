@@ -1,0 +1,1246 @@
+# GitHub Weekly Report: 2026-10-30 ~ 2026-11-06
+
+## Overview
+
+本周共追踪 20 个仓库，其中 19 个仓库有新的提交，累计 512 次提交。最活跃的仓库：freeCodeCamp/freeCodeCamp、openclaw/openclaw、morluto/rea、deepseek-ai/deepseek-harness、NousResearch/hermes-agent。
+
+---
+
+## Repo Highlights
+
+### [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+#### 项目简介
+
+freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 458,616 |
+| 🍴 Forks | 48,131 |
+| 👀 Watchers | 8,583 |
+| 🔤 Language | TypeScript |
+| 📜 License | BSD-3-Clause |
+| 📅 Created | 2014-12-24 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | careers, certification, community, curriculum, d3, education, freecodecamp, javascript, learn-to-code, math, nodejs, nonprofits, programming, react, teachers |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +359
+- 🍴 Fork 增长（本周）: +-613
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 35 新增 / 37 关闭
+
+---
+
+### [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+#### 项目简介
+
+:books: Freely available programming books
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 400,997 |
+| 🍴 Forks | 67,188 |
+| 👀 Watchers | 9,776 |
+| 🔤 Language | Python |
+| 📜 License | CC-BY-4.0 |
+| 📅 Created | 2013-10-11 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | books, education, hacktoberfest, list, resource |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +435
+- 🍴 Fork 增长（本周）: +147
+- 📝 Commits（本周）: 5 次
+- 🐛 Issues（本周）: 1 新增 / 0 关闭
+
+---
+
+### [openclaw/openclaw](https://github.com/openclaw/openclaw)
+
+#### 项目简介
+
+The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 393,996 |
+| 🍴 Forks | 82,791 |
+| 👀 Watchers | 1,693 |
+| 🔤 Language | TypeScript |
+| 📜 License | MIT |
+| 📅 Created | 2025-11-24 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | ai, assistant, crustacean, molty, openclaw, own-your-data, personal |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +496
+- 🍴 Fork 增长（本周）: +83
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 1051 新增 / 1325 关闭
+
+---
+
+### [morluto/rea](https://github.com/morluto/rea)
+
+#### 项目简介
+
+Reverse engineer anything with agents, from app behavior down to native binaries.
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 434,947 |
+| 🍴 Forks | 107,940 |
+| 👀 Watchers | 1,657 |
+| 🔤 Language | TypeScript |
+| 📜 License | MIT |
+| 📅 Created | 2026-04-14 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | agent-skills, ai, android, claude-code, cli, cpp, dsh-plugin, html, java, javascript, linux, mcp, nodejs, python, rea, react, rust, security, touhou, typescript |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +21967
+- 🍴 Fork 增长（本周）: +4629
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 355 新增 / 173 关闭
+
+---
+
+### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+#### 项目简介
+
+DeepSeek Harness: Everything is a Plugin.
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 274,009 |
+| 🍴 Forks | 33,461 |
+| 👀 Watchers | 1,155 |
+| 🔤 Language | TypeScript |
+| 📜 License | MIT |
+| 📅 Created | 2026-08-13 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | ai-agents, cordis, dsh, dsh-plugin |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +7129
+- 🍴 Fork 增长（本周）: +1093
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 0 新增 / 0 关闭
+
+---
+
+### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
+#### 项目简介
+
+The agent that grows with you
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 260,928 |
+| 🍴 Forks | 57,623 |
+| 👀 Watchers | 996 |
+| 🔤 Language | Python |
+| 📜 License | MIT |
+| 📅 Created | 2025-07-22 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +1993
+- 🍴 Fork 增长（本周）: +704
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 1204 新增 / 176 关闭
+
+---
+
+### [anomalyco/opencode](https://github.com/anomalyco/opencode)
+
+#### 项目简介
+
+The open source coding agent.
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 224,839 |
+| 🍴 Forks | 30,330 |
+| 👀 Watchers | 864 |
+| 🔤 Language | TypeScript |
+| 📜 License | MIT |
+| 📅 Created | 2025-04-30 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | - |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +1453
+- 🍴 Fork 增长（本周）: +346
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 849 新增 / 798 关闭
+
+---
+
+### [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
+#### 项目简介
+
+Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 209,652 |
+| 🍴 Forks | 61,380 |
+| 👀 Watchers | 1,176 |
+| 🔤 Language | TypeScript |
+| 📜 License | NOASSERTION |
+| 📅 Created | 2019-06-22 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | ai, apis, automation, cli, data-flow, development, integration-framework, integrations, ipaas, low-code, low-code-platform, mcp, mcp-client, mcp-server, n8n, no-code, self-hosted, typescript, workflow, workflow-automation |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +489
+- 🍴 Fork 增长（本周）: +51
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 50 新增 / 37 关闭
+
+---
+
+### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+
+#### 项目简介
+
+Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 199,005 |
+| 🍴 Forks | 10,491 |
+| 👀 Watchers | 494 |
+| 🔤 Language | TypeScript |
+| 📜 License | AGPL-3.0 |
+| 📅 Created | 2024-04-15 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | ai, ai-agents, ai-crawler, ai-scraping, ai-search, crawler, data-extraction, html-to-markdown, llm, markdown, scraper, scraping, web-crawler, web-data, web-data-extraction, web-scraper, web-scraping, web-search, webscraping |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +1832
+- 🍴 Fork 增长（本周）: +76
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 6 新增 / 1 关闭
+
+---
+
+### [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+
+#### 项目简介
+
+An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 194,948 |
+| 🍴 Forks | 107,508 |
+| 👀 Watchers | 1,854 |
+| 🔤 Language | Rust |
+| 📜 License | MIT |
+| 📅 Created | 2026-03-31 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | - |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +-49
+- 🍴 Fork 增长（本周）: +-118
+- 📝 Commits（本周）: 8 次
+- 🐛 Issues（本周）: 2 新增 / 2 关闭
+
+---
+
+### [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+#### 项目简介
+
+AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 187,914 |
+| 🍴 Forks | 45,907 |
+| 👀 Watchers | 1,530 |
+| 🔤 Language | Python |
+| 📜 License | NOASSERTION |
+| 📅 Created | 2023-03-16 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | agentic-ai, agents, ai, artificial-intelligence, autonomous-agents, claude, gpt, llama-api, llm, openai, python |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +75
+- 🍴 Fork 增长（本周）: +-1
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 11 新增 / 38 关闭
+
+---
+
+### [huggingface/transformers](https://github.com/huggingface/transformers)
+
+#### 项目简介
+
+🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 168,573 |
+| 🍴 Forks | 35,124 |
+| 👀 Watchers | 1,241 |
+| 🔤 Language | Python |
+| 📜 License | Apache-2.0 |
+| 📅 Created | 2018-10-29 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | audio, deep-learning, deepseek, gemma, glm, hacktoberfest, llm, machine-learning, model-hub, natural-language-processing, nlp, pretrained-models, python, pytorch, pytorch-transformers, qwen, speech-recognition, transformer, vlm |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +195
+- 🍴 Fork 增长（本周）: +68
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 67 新增 / 65 关闭
+
+---
+
+### [langgenius/dify](https://github.com/langgenius/dify)
+
+#### 项目简介
+
+Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 160,500 |
+| 🍴 Forks | 25,395 |
+| 👀 Watchers | 837 |
+| 🔤 Language | Python |
+| 📜 License | NOASSERTION |
+| 📅 Created | 2023-04-12 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, claude, deepseek, genai, gpt, llm, low-code, mcp, nextjs, no-code, openai, python, skills, workflow |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +452
+- 🍴 Fork 增长（本周）: +103
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 128 新增 / 100 关闭
+
+---
+
+### [pytorch/pytorch](https://github.com/pytorch/pytorch)
+
+#### 项目简介
+
+Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 105,157 |
+| 🍴 Forks | 31,306 |
+| 👀 Watchers | 1,793 |
+| 🔤 Language | Python |
+| 📜 License | NOASSERTION |
+| 📅 Created | 2016-08-13 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | autograd, deep-learning, gpu, machine-learning, neural-network, numpy, python, tensor |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +130
+- 🍴 Fork 增长（本周）: +-578
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 226 新增 / 183 关闭
+
+---
+
+### [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+
+#### 项目简介
+
+Production-Grade Container Scheduling and Management
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 128,716 |
+| 🍴 Forks | 45,737 |
+| 👀 Watchers | 3,241 |
+| 🔤 Language | Go |
+| 📜 License | Apache-2.0 |
+| 📅 Created | 2014-06-06 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | cncf, containers, go, kubernetes |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +161
+- 🍴 Fork 增长（本周）: +-639
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 43 新增 / 35 关闭
+
+---
+
+### [ollama/ollama](https://github.com/ollama/ollama)
+
+#### 项目简介
+
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 186,042 |
+| 🍴 Forks | 18,917 |
+| 👀 Watchers | 1,020 |
+| 🔤 Language | Go |
+| 📜 License | MIT |
+| 📅 Created | 2023-06-26 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | deepseek, gemma, glm, go, golang, gpt-oss, llama, llm, llms, minimax, mistral, muse, ollama, qwen |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +640
+- 🍴 Fork 增长（本周）: +135
+- 📝 Commits（本周）: 19 次
+- 🐛 Issues（本周）: 0 新增 / 0 关闭
+
+---
+
+### [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
+#### 项目简介
+
+A collective list of free APIs
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 496,456 |
+| 🍴 Forks | 55,461 |
+| 👀 Watchers | 4,763 |
+| 🔤 Language | Python |
+| 📜 License | MIT |
+| 📅 Created | 2016-03-20 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | api, apis, dataset, development, free, list, lists, open-source, public, public-api, public-apis, resources, software |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +2862
+- 🍴 Fork 增长（本周）: +383
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 0 新增 / 0 关闭
+
+---
+
+### [grafana/grafana](https://github.com/grafana/grafana)
+
+#### 项目简介
+
+The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 77,714 |
+| 🍴 Forks | 14,925 |
+| 👀 Watchers | 1,283 |
+| 🔤 Language | TypeScript |
+| 📜 License | AGPL-3.0 |
+| 📅 Created | 2013-12-11 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | alerting, analytics, business-intelligence, dashboard, data-visualization, elasticsearch, go, grafana, hacktoberfest, influxdb, metrics, monitoring, mysql, postgres, prometheus |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +127
+- 🍴 Fork 增长（本周）: +39
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 0 新增 / 119 关闭
+
+---
+
+### [prometheus/prometheus](https://github.com/prometheus/prometheus)
+
+#### 项目简介
+
+The Prometheus monitoring system and time series database.
+
+#### 基础信息
+
+| 属性 | 值 |
+|------|-----|
+| ⭐ Stars | 66,973 |
+| 🍴 Forks | 10,974 |
+| 👀 Watchers | 1,143 |
+| 🔤 Language | Go |
+| 📜 License | Apache-2.0 |
+| 📅 Created | 2012-11-24 |
+| 🔄 Updated | 2026-11-06 |
+| 🏷️ Topics | alerting, graphing, hacktoberfest, metrics, monitoring, prometheus, time-series |
+
+#### 活动
+
+- ⭐ Star 增长（本周）: +103
+- 🍴 Fork 增长（本周）: +25
+- 📝 Commits（本周）: 30 次
+- 🐛 Issues（本周）: 20 新增 / 9 关闭
+
+---
+
+## Tracked Repositories
+
+### [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+- [`a7292b4`](https://github.com/freeCodeCamp/freeCodeCamp/commit/a7292b4f26e37f59ba12d670e53d8806d5c2527f) fix(curriculum): revert RPG certification project duplication (#71590) — _majestic-owl448, 2026-11-05_
+- [`721afe6`](https://github.com/freeCodeCamp/freeCodeCamp/commit/721afe66f9e83f95ab18d89349f49b4795264d70) fix(curriculum): save Bisection Method submissions (#71580) — _majestic-owl448, 2026-11-05_
+- [`fd48912`](https://github.com/freeCodeCamp/freeCodeCamp/commit/fd4891280a7c0251157d6708249119ebd7f7a41b) fix(curriculum): specify module in dictionaries and sets quiz (#71573) — _Supravisor, 2026-11-05_
+- [`fdc1020`](https://github.com/freeCodeCamp/freeCodeCamp/commit/fdc1020b6143845d653302d53434a6bbec19fd0e) fix(curriculum): explain Python keyword arguments (#71587) — _majestic-owl448, 2026-11-04_
+- [`a80abfd`](https://github.com/freeCodeCamp/freeCodeCamp/commit/a80abfd6b08619626fe100513bf83a156fd20108) feat(curriculum): add RPG certification project (#71579) — _majestic-owl448, 2026-11-04_
+- [`06caf33`](https://github.com/freeCodeCamp/freeCodeCamp/commit/06caf33ee6ad04256fe803673a50b6a27ea8b62f) fix(curriculum): clarify parameter reassignment in Kitchen Inventory Tracker (#71578) — _majestic-owl448, 2026-11-04_
+- [`3dcfcf4`](https://github.com/freeCodeCamp/freeCodeCamp/commit/3dcfcf409dbee23e4acaeefd2700ab6a9808b142) feat(client): add new curriculum alert ab test (#71582) — _Ahmad Abdolsaheb, 2026-11-04_
+- [`0a59480`](https://github.com/freeCodeCamp/freeCodeCamp/commit/0a594806947d970dcdecad8189932967c0626e0a) fix(curriculum): improve data structures review content (#71543) — _Ansh, 2026-11-04_
+- [`21f0b63`](https://github.com/freeCodeCamp/freeCodeCamp/commit/21f0b632bc49621669f897c6ee795a07e90426f4) fix(curriculum): align dynamic programming review with Python module (#71557) — _Rohan Dedhia, 2026-11-04_
+- [`fb707af`](https://github.com/freeCodeCamp/freeCodeCamp/commit/fb707af1506fa42c39f211b2288cbbcbf92328a3) fix(curriculum): improve searching and sorting algorithms review accuracy (#71539) — _Ansh, 2026-11-04_
+- [`19270cd`](https://github.com/freeCodeCamp/freeCodeCamp/commit/19270cda6bd00ab5b8b6cfed634c460f3a53fd1c) fix(curriculum): align recursion review with python module (#71538) — _Siddharth T S, 2026-11-04_
+- [`563fa4f`](https://github.com/freeCodeCamp/freeCodeCamp/commit/563fa4f6bf214264199925d81d0d0f2582c75db2) fix(curriculum): improve explanation in plan future events task 61 (#71574) — _LastGregStanding, 2026-11-04_
+- [`058d47f`](https://github.com/freeCodeCamp/freeCodeCamp/commit/058d47f714ac970e970a660e17fab08adfa7ef56) fix(curriculum): enforce email simulator call order (#71426) — _majestic-owl448, 2026-11-03_
+- [`7e7fb8f`](https://github.com/freeCodeCamp/freeCodeCamp/commit/7e7fb8ff9ff2dd810c961a247721b0a62e904788) feat(curriculum): explain Python parameter reassignment (#71566) — _majestic-owl448, 2026-11-03_
+- [`7832400`](https://github.com/freeCodeCamp/freeCodeCamp/commit/7832400f455ed9193d6f6980ea50b1f56b7de85f) fix(curriculum): correct British date format example (#71564) — _Bipin Budhathoki, 2026-11-03_
+- [`0763901`](https://github.com/freeCodeCamp/freeCodeCamp/commit/07639016c2cede4d6b27d96dca31ca1787fe8976) fix(curriculum): update explanations and add missing topics to Object-Oriented Programming review (#71522) — _David Zhang, 2026-11-03_
+- [`309c838`](https://github.com/freeCodeCamp/freeCodeCamp/commit/309c8381a149ffbc4f340668c1b70be8d0def636) fix(curriculum): complete Classes and Objects review (#71548) — _TAOFEEK LAWAL, 2026-11-03_
+- [`a9c4572`](https://github.com/freeCodeCamp/freeCodeCamp/commit/a9c4572f8306964d20a270335f4a232f9df28eb6) fix(curriculum): correct and complete Dictionaries and Sets review (#71547) — _TAOFEEK LAWAL, 2026-11-03_
+- [`f3975b4`](https://github.com/freeCodeCamp/freeCodeCamp/commit/f3975b4f5890e1d77b68c5c75c77d1226966c4f5) feat(curriculum): add a Python identity operators lesson (#71563) — _majestic-owl448, 2026-11-03_
+- [`6f872a4`](https://github.com/freeCodeCamp/freeCodeCamp/commit/6f872a4fa1ee0fa1653465fa828db89cb8805894) feat(curriculum): teach tuple returns and comparison (#71562) — _majestic-owl448, 2026-11-03_
+- [`1694f80`](https://github.com/freeCodeCamp/freeCodeCamp/commit/1694f8035e38734cb7d58c58e328b293d46f138c) fix(curriculum): mention float('inf') in python lesson (#71560) — _Dario, 2026-11-03_
+- [`05299f1`](https://github.com/freeCodeCamp/freeCodeCamp/commit/05299f16a3f405489a5fd6d7e03d32d4787a8cb9) fix(curriculum): clarify wildcard imports (#71483) — _majestic-owl448, 2026-11-03_
+- [`9e8ea31`](https://github.com/freeCodeCamp/freeCodeCamp/commit/9e8ea31ce7137d92a12257432491e7b8214c9754) fix(curriculum): teach Python escape sequences (#71551) — _majestic-owl448, 2026-11-03_
+- [`fe5d97f`](https://github.com/freeCodeCamp/freeCodeCamp/commit/fe5d97f95190a0316149a87eea91b3c1b91b474e) fix(curriculum): clarify default object behavior (#71556) — _majestic-owl448, 2026-11-03_
+- [`ff5be39`](https://github.com/freeCodeCamp/freeCodeCamp/commit/ff5be39b34a9139efb9385d95fc42e3b129b3b66) fix(curriculum): define iterable in Python loops review (#71561) — _majestic-owl448, 2026-11-03_
+- [`04ca4e1`](https://github.com/freeCodeCamp/freeCodeCamp/commit/04ca4e116a13f7093d1a15fa7c1c807fe98eb170) fix(api): allow owned origin (#70004) — _Shaun Hamilton, 2026-11-03_
+- [`08585ec`](https://github.com/freeCodeCamp/freeCodeCamp/commit/08585ece0bc68717e0f40a1256ff4aefa25c8388) fix(curriculum): complete float basics review (#71558) — _bula393, 2026-11-03_
+- [`3c3dd28`](https://github.com/freeCodeCamp/freeCodeCamp/commit/3c3dd2840bba94750fcf7e9dc79537bdb10e8e19) fix(curriculum): improve error handling review explanations and formatting (#71544) — _Wilmer Gulcochia, 2026-11-03_
+- [`ef7b6a2`](https://github.com/freeCodeCamp/freeCodeCamp/commit/ef7b6a229bb3491ac8070518d542384ccda56961) fix(curriculum): mark literal city names as code in weather app labs (#71555) — _Rohan Dedhia, 2026-11-03_
+- [`5fe4c47`](https://github.com/freeCodeCamp/freeCodeCamp/commit/5fe4c476be84ca29a3be3bec022c2e0166258ee1) fix(curriculum): align Python Installation Review with its lectures (#71490) — _AryanSingh2029, 2026-11-03_
+
+### [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+- [`b4c4cc4`](https://github.com/EbookFoundation/free-programming-books/commit/b4c4cc4040b614d2aca81ad5f2bcd92ed3d422ec) Fix dead link to Web Audio API (Boris Smus) (#13579) — _Jason Colapietro, 2026-11-01_
+- [`7bb29b1`](https://github.com/EbookFoundation/free-programming-books/commit/7bb29b14b052bea0b57e770dac64533afa4fa187) Fix typo: Documnetation -> Documentation (#13578) — _Bahadur Singh, 2026-11-01_
+- [`05b7fc4`](https://github.com/EbookFoundation/free-programming-books/commit/05b7fc4df35121cc7d94035c00b5610042a1962c) Add 5 free HTML guides from the "From scratch in Python" series (#13567) — _Rob Cox, 2026-11-01_
+- [`b7cb7fc`](https://github.com/EbookFoundation/free-programming-books/commit/b7cb7fc6119aa725ce671bb8fd2476aca8b52357) Add prepare.sh Docker Course to Docker courses (#13572) — _Aykhan Shahsuvarov, 2026-11-01_
+- [`c89149d`](https://github.com/EbookFoundation/free-programming-books/commit/c89149d933d632bad01759e8d2248b06c217478e) Remove YouTube playlists that no longer exist from free-courses-vi (#13571) — _Nguyễn Trung Tuyến, 2026-11-01_
+
+### [openclaw/openclaw](https://github.com/openclaw/openclaw)
+
+- [`7349fd5`](https://github.com/openclaw/openclaw/commit/7349fd516c645ec49ca0708e94f8527988e2a9cf) fix(ui): reduce style work during transcript scrolling (#193920) — _Peter Steinberger, 2026-11-06_
+- [`1595dd2`](https://github.com/openclaw/openclaw/commit/1595dd24770799485a9631c757ccfb7740c12be2) feat(plugins): reauthorize accepted session work (#176886) — _Vincent Koc, 2026-11-06_
+- [`d622a2b`](https://github.com/openclaw/openclaw/commit/d622a2ba4cd872758e1fbc5cbd5036602cb1ecba) test(ui): measure interactions in aged Control UI tabs (#193926) — _Peter Steinberger, 2026-11-06_
+- [`0cc3586`](https://github.com/openclaw/openclaw/commit/0cc3586362cb858b228f74c3a703ef88a373d66a) fix(ui): clarify Cmd+K session creation feedback — _RoboClaw, 2026-11-06_
+- [`abe1170`](https://github.com/openclaw/openclaw/commit/abe11702825e31e250244fd2ea1f0abd22dc0c24) perf(workers): reduce prepared workspace refresh round trips (#193901) — _Peter Steinberger, 2026-11-06_
+- [`0b09032`](https://github.com/openclaw/openclaw/commit/0b090326c3fd5c9f515ff9718d067f42e0ea77f7) chore(ui): refresh control ui locales (#193923) — _openclaw-mantis[bot], 2026-11-06_
+- [`4aea2c0`](https://github.com/openclaw/openclaw/commit/4aea2c089cb710fc619d92bf0de28749236c87b2) perf(ui): retain unchanged meeting and plugin row content (#193918) — _Peter Steinberger, 2026-11-06_
+- [`b43ad0a`](https://github.com/openclaw/openclaw/commit/b43ad0ae90a28ca6219a2d8f09a029b6718c0fac) fix(models): avoid reloading plugins on catalog refresh (#193903) — _Vincent Koc, 2026-11-06_
+- [`36e5299`](https://github.com/openclaw/openclaw/commit/36e52993c9f8fb61c271a9eb57579a983e01f04d) test(ui): strengthen event, response and lifecycle assertions (#193906) — _Vincent Koc, 2026-11-06_
+- [`0947d02`](https://github.com/openclaw/openclaw/commit/0947d02be82f53560936c656311acd43fb965f7c) fix(ci): avoid unrelated PostgreSQL runs and admit owned tests (#193870) — _Vincent Koc, 2026-11-06_
+- [`509973d`](https://github.com/openclaw/openclaw/commit/509973d23bcaac8a58f01cc468286acaac2c2c61) fix(plugins): show recovery for rejected bundle inputs (#193902) — _Ben.Li, 2026-11-06_
+- [`eb77d91`](https://github.com/openclaw/openclaw/commit/eb77d91994befa7194122199a963d75087b7739e) fix(chat): recover retained chats after live subscription failures (#193917) — _RoboClaw, 2026-11-06_
+- [`428ca7d`](https://github.com/openclaw/openclaw/commit/428ca7daffc9b805a865700012cae906ae316071) feat(openclaw-id): add Gateway membership authority and publication behind the Labs flag (#192335) — _Josh Lehman, 2026-11-06_
+- [`9efcae7`](https://github.com/openclaw/openclaw/commit/9efcae7d13a5872178105bd0f999bde8eb34dd52) chore(ui): refresh control ui locales (#193916) — _openclaw-mantis[bot], 2026-11-06_
+- [`1ce6c0e`](https://github.com/openclaw/openclaw/commit/1ce6c0e574929b3134a235e199c2cf002e1ffd07) fix(infer): forward interrupt signal to audio transcription requests (#193893) — _wangmiao0668000666, 2026-11-06_
+- [`7136e8c`](https://github.com/openclaw/openclaw/commit/7136e8cff3be9c2934b69c73c59753eb5268e25a) fix(ui): navigate images across loaded chat threads (#193852) — _RoboClaw, 2026-11-06_
+- [`04d93fb`](https://github.com/openclaw/openclaw/commit/04d93fb8469c59d6d9a86f0641be3a8f07a35729) feat(models): end the first provider add in a working chat (#193892) — _Ayaan Zaidi, 2026-11-06_
+- [`32aab96`](https://github.com/openclaw/openclaw/commit/32aab96a87c2819fbff8a149a0514fd7198789e4) fix(update): Gateway stays stopped when an update is interrupted during Doctor (#193760) — _Peter Steinberger, 2026-11-06_
+- [`3d4a0d1`](https://github.com/openclaw/openclaw/commit/3d4a0d1bc1f64758cc2e96412ada0d2b085e706e) fix(postgres): settle staged authority at physical commit (#193842) — _Vincent Koc, 2026-11-06_
+- [`7f44c96`](https://github.com/openclaw/openclaw/commit/7f44c969d60ecdc9829853c62c0696a67cac860d) fix(pr): accept historical CI after later branch pushes (#193904) — _Peter Steinberger, 2026-11-06_
+- [`00ddcde`](https://github.com/openclaw/openclaw/commit/00ddcde27521ca792ec20faf21347c68ba233fa2) fix(ui): keep asset hash renames out of size budgets (#193843) — _Peter Steinberger, 2026-11-06_
+- [`a07facd`](https://github.com/openclaw/openclaw/commit/a07facd84480bc701b2fa1d2eddb3aefccae187c) fix(memory-wiki): ignore commented and escaped wikilinks (#193469) — _xingzhou, 2026-11-06_
+- [`30568be`](https://github.com/openclaw/openclaw/commit/30568bed81c4bfddd6c1ee27904d4675cd852d17) test(qa): retire the redundant Swift portability adapter (#193887) — _Vincent Koc, 2026-11-06_
+- [`454088a`](https://github.com/openclaw/openclaw/commit/454088a9018a226808d9e6b74d430747659bc03c) perf(ui): avoid Chat stylesheet invalidation in Dashboards (#193895) — _Peter Steinberger, 2026-11-06_
+- [`476f490`](https://github.com/openclaw/openclaw/commit/476f4901e2c082ee62a9d4fd1408f5e5a08f6d86) fix(oc-path): stop extra path segments from overwriting frontmatter (#193878) — _xingzhou, 2026-11-06_
+- [`bc47d05`](https://github.com/openclaw/openclaw/commit/bc47d05a49fb9a051798e3a9f9f3a27738d5030c) chore(ui): refresh control ui locales (#193897) — _openclaw-mantis[bot], 2026-11-06_
+- [`ce8b7ad`](https://github.com/openclaw/openclaw/commit/ce8b7add7b003aa4ac41d4b32950ae334599d710) improve(ci): avoid application copies in PR routing fixtures (#193838) — _Vincent Koc, 2026-11-06_
+- [`56775d8`](https://github.com/openclaw/openclaw/commit/56775d8ebd0baa4d9d88db86848d523c0e60cb00) perf(workers): reuse prepared state for nearby commit refreshes (#193784) — _Peter Steinberger, 2026-11-06_
+- [`2d54096`](https://github.com/openclaw/openclaw/commit/2d54096e462974f9434a5605c9da3169a59ab7c4) feat: preview recommended templates in a compact dialog (#193778) — _Patrick Erichsen, 2026-11-06_
+- [`605bd6f`](https://github.com/openclaw/openclaw/commit/605bd6f405dc4619bf77416a9244ac4afd12ee34) fix(test): stop launcher disconnect fixture from timing out (#193881) — _Vincent Koc, 2026-11-06_
+
+### [morluto/rea](https://github.com/morluto/rea)
+
+- [`fc4c381`](https://github.com/morluto/rea/commit/fc4c381dd7232cf0e73f7f0ff8b55248e33dc12c) feat(desktop): keep an agentenv computer up and drive it through REA's MCP tools (#9041) — _Edgar Arakelyan, 2026-11-06_
+- [`de8b2f3`](https://github.com/morluto/rea/commit/de8b2f359269b7821c5bb8fa018070f6f06109b5) fix(pe): reject malformed and repeated certificate extensions (#8928) — _RRFZ, 2026-11-06_
+- [`b2672d8`](https://github.com/morluto/rea/commit/b2672d872711054528d077c067fa8bd367a3e001) fix(pe): reject a SignerInfo version that does not match its sid (#8924) — _RRFZ, 2026-11-06_
+- [`4b9392e`](https://github.com/morluto/rea/commit/4b9392e41cb98f647832e33f0d223bdc541ed898) fix(pe): reject certificate versions and fields RFC 5280 does not allow (#8921) — _RRFZ, 2026-11-06_
+- [`f1212b9`](https://github.com/morluto/rea/commit/f1212b9e4e5d01a26131c6001193d9858b8b6bbc) fix(cli): reject non-decimal native UI and command deadline options (#8920) — _RRFZ, 2026-11-06_
+- [`3eff806`](https://github.com/morluto/rea/commit/3eff8065e757c6e3bab96d164abfceafd340e6d1) fix(process): preserve UTF-8 at diagnostic truncation boundaries (#8907) — _Afloat, 2026-11-06_
+- [`a3621e5`](https://github.com/morluto/rea/commit/a3621e5e1f73755d927dd97861ab4216cabf4787) fix(process): resume buffered NDJSON frames on partial chunks (#8909) — _Afloat, 2026-11-06_
+- [`b153ba8`](https://github.com/morluto/rea/commit/b153ba8ddd5bf13cbc6ba74009eca290686adbca) fix(process): honor cancellation at bounded file read completion (#8908) — _Afloat, 2026-11-06_
+- [`b28b1e0`](https://github.com/morluto/rea/commit/b28b1e0ae21706dfa51ca6286479cd524af38d25) fix(adb): list devices adb reports with bare no-permissions text (#8905) — _Dragolone, 2026-11-06_
+- [`c363f3e`](https://github.com/morluto/rea/commit/c363f3e27b485d3f6330c3634d5d9c8f80d98d72) feat(desktop): pick seed and end by checkpoint, and keep the capture host out of bundles (#9037) — _Edgar Arakelyan, 2026-11-06_
+- [`a7574d4`](https://github.com/morluto/rea/commit/a7574d4274728fcb0a13414d6ae43f1597864d94) fix(filesystem): settle a Windows ChangeTime before recording a baseline (#8979) — _2SinceJuly, 2026-11-05_
+- [`0beedcd`](https://github.com/morluto/rea/commit/0beedcd712e39a7d93e4558ee56fd596eaa22838) perf(mcp): add opt-in hot/cold tool discovery (#9046) — _gensokyo-dev, 2026-11-05_
+- [`ad518cf`](https://github.com/morluto/rea/commit/ad518cff65cc71564f678b26bcae4a3862689ad4) feat(artifacts): select extraction entries and output destination (#4031) — _APZN, 2026-11-05_
+- [`8084916`](https://github.com/morluto/rea/commit/80849168590dedcab49cfdb5d5b94749fc9e89fc) perf(eval): measure MCP catalog usage through the real Codex harness (#9035) — _gensokyo-dev, 2026-11-05_
+- [`fb453f2`](https://github.com/morluto/rea/commit/fb453f29307262cb7f6e3523f90960ca4f667d70) fix(mcp): support retained pseudocode summaries and paging (#5046) — _L13an, 2026-11-05_
+- [`e5f6383`](https://github.com/morluto/rea/commit/e5f638310c2dca254637aa345345f3bfb72933c1) fix(cli): reject project-scoped Amp registration (#7979) — _Saim Shafique, 2026-11-05_
+- [`0ac6be1`](https://github.com/morluto/rea/commit/0ac6be1a3de38a1c84ee128768ae0e692b99411c) ci(environment): pin the real agentenv lane to agentenv-framework 0.9.1431 (#8865) — _Edgar Arakelyan, 2026-11-05_
+- [`dd31958`](https://github.com/morluto/rea/commit/dd319587430e01d71362cbca8f53bbc13b08a798) fix(discovery): advertise attached IDA navigation effects (#7017) — _Dhruvilkumar Ashokbhai Chodvadiya, 2026-11-05_
+- [`f76be69`](https://github.com/morluto/rea/commit/f76be69428078344673e2e1aa2a8355337587c65) fix(cli): reject non-decimal byte-entropy window options (#8919) — _RRFZ, 2026-11-05_
+- [`c1ee828`](https://github.com/morluto/rea/commit/c1ee8289c9d70fa26a42f94937179afc63860964) fix(signals): name the limiter as a possible cause of a failed sigrok version probe (#6395) — _Abel Yagubyan, 2026-11-05_
+- [`560674e`](https://github.com/morluto/rea/commit/560674e2de851cec3f670be8297d28835009247a) feat(native): report binary hardening for ELF, PE and Mach-O (#8524) — _Matt Van Horn, 2026-11-05_
+- [`ec34109`](https://github.com/morluto/rea/commit/ec3410998b70290847f930538e57d0af0ac1bffb) fix(ci): align tests with current evidence contracts — _morluto, 2026-11-05_
+- [`fe677f6`](https://github.com/morluto/rea/commit/fe677f6cf9853fb12490dfb8ef23ccae3a551049) fix(rizin): keep debug targets off the debugger command stream (#8647) — _Kaoru0822, 2026-11-05_
+- [`845eb54`](https://github.com/morluto/rea/commit/845eb54d2b570e8a5779f150ac29f42fddb8cb5a) fix(prompts): include existing static artifact investigation routes (#8972) — _Mohamed Ayoub Eleuch, 2026-11-05_
+- [`56be611`](https://github.com/morluto/rea/commit/56be61191e70f33a091c31790da2a4a210c63ec2) fix(mcp): report target after failed open (#8613) — _morluto, 2026-11-05_
+- [`3395c9e`](https://github.com/morluto/rea/commit/3395c9e6b30a864a03b78576c5f3c6589cb00fbb) fix(ida): admit Docker host-gateway names as local MCP hosts (#8932) — _Beqa, 2026-11-05_
+- [`da79ea0`](https://github.com/morluto/rea/commit/da79ea0baa1abdfcbf0547c56727f3b141e8465f) fix(il2cpp): reject module image references outside retained inventory (#8956) — _Jiabin Yin, 2026-11-05_
+- [`4362a08`](https://github.com/morluto/rea/commit/4362a0848ed798f3a7be03d6b5d5463a3e103027) fix(javascript): transient Windows private-runtime source-transfer (#8769) — _Beqa, 2026-11-05_
+- [`7b6fc6f`](https://github.com/morluto/rea/commit/7b6fc6f13de8cde5dfdca0b44f78b9537ddca8da) fix(javascript): resolve electron findings through aliases of interop results (#8914) — _highmachs, 2026-11-05_
+- [`281dbc8`](https://github.com/morluto/rea/commit/281dbc8514ddbbdc7cb455ad404b61b2a39363ac) fix(apple): preserve exact integer precision with post-table plist objects (#8910) — _highmachs, 2026-11-05_
+
+### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+
+- [`fcc0ad4`](https://github.com/deepseek-ai/deepseek-harness/commit/fcc0ad462172522aaf5c93a7b2e01f6b9f0b0159) Merge pull request #7873 from deepseek-harness/merge/release-dsh-0.2.2-rc.1-to-master — _imccyu, 2026-11-04_
+- [`0b4328d`](https://github.com/deepseek-ai/deepseek-harness/commit/0b4328d514c11654034ae6ac49fab41db6a41bd6) Merge pull request #7856 from deepseek-harness/docs/liveshare-surface-accuracy — _Xu Hanxiang, 2026-11-04_
+- [`78be9be`](https://github.com/deepseek-ai/deepseek-harness/commit/78be9be83ba4f1926b57b25760d9a643a34b98b7) Merge pull request #7844 from deepseek-harness/fix/desktop-channel-version-policy — _winewill, 2026-11-04_
+- [`abc0e70`](https://github.com/deepseek-ai/deepseek-harness/commit/abc0e7092b8e2d221eedf681e474e1bf6309cc63) Merge remote-tracking branch 'origin/release/dsh-0.2.2' into merge/release-dsh-0.2.2-rc.1-to-master — _imccyu, 2026-11-04_
+- [`66491b0`](https://github.com/deepseek-ai/deepseek-harness/commit/66491b05e3f05ad35bcdd4f6cd7ed26041d9e3db) Merge pull request #7870 from deepseek-harness/worktree/release-dsh-0.2.2-rc.1 — _imccyu, 2026-11-04_
+- [`2f97f60`](https://github.com/deepseek-ai/deepseek-harness/commit/2f97f60455605e915b8176d9170cae337bfedcc6) release(dsh): 0.2.2-rc.1 — _imccyu, 2026-11-04_
+- [`60d811d`](https://github.com/deepseek-ai/deepseek-harness/commit/60d811de43a819eb4317966845c9fc677c41b50d) release(vendor): cordis 4.1.0, cosmokit 1.9.0, group 1.1.0, hmr 1.1.0, include 1.1.0, loader 1.1.0, logger-console 1.1.0, schemastery 3.19.0, timer 1.2.0 — _imccyu, 2026-11-04_
+- [`f1b3487`](https://github.com/deepseek-ai/deepseek-harness/commit/f1b3487a51891094e8a5fcc81e84b75125bc858f) Merge pull request #7853 from deepseek-harness/fix/web-prompt-retry — _Kexin Liu, 2026-11-04_
+- [`c649fda`](https://github.com/deepseek-ai/deepseek-harness/commit/c649fdae69b0a6321c6cd0141b87d3e80f53bb90) docs(desktop): preserve frozen stable channel migration guide — _winewill, 2026-11-04_
+- [`78167fa`](https://github.com/deepseek-ai/deepseek-harness/commit/78167faa4fa709ed9c14f1225e8d1dcb02b20404) Merge remote-tracking branch 'origin/master' into fix/web-prompt-retry — _liukx0205, 2026-11-04_
+- [`0d03fb3`](https://github.com/deepseek-ai/deepseek-harness/commit/0d03fb3ca31c8bd87e39786731bd97e6a8083e26) Merge master into desktop channel version policy — _winewill, 2026-11-04_
+- [`a186602`](https://github.com/deepseek-ai/deepseek-harness/commit/a186602dc3ec9e8d5657e4c12f04f5263e75e143) Merge remote-tracking branch 'origin/master' into fix/web-prompt-retry — _liukx0205, 2026-11-04_
+- [`0ddca24`](https://github.com/deepseek-ai/deepseek-harness/commit/0ddca24030f618954f7a76dd95003b8bcf3987f0) Merge pull request #7569 from deepseek-harness/ux/session-menu-open-in-app — _std4453, 2026-11-04_
+- [`f823eb9`](https://github.com/deepseek-ai/deepseek-harness/commit/f823eb9c60b1b3a5343cec23e8ac05ba1fbaf68d) Merge pull request #7864 from deepseek-harness/feat/desktop-staging-percentage — _winewill, 2026-11-04_
+- [`a9b2873`](https://github.com/deepseek-ai/deepseek-harness/commit/a9b2873303b4f0bd9638ac871306d9e462db309f) Merge pull request #7787 from deepseek-harness/turtle/add-paste-plain-shortcut-d16f8fd43c4b — _std4453, 2026-11-04_
+- [`08afd88`](https://github.com/deepseek-ai/deepseek-harness/commit/08afd883d7d792d8a4c98fa1ec6c6148d1478319) docs(desktop): scope build numbering to its version mode — _winewill, 2026-11-04_
+- [`90ff03b`](https://github.com/deepseek-ai/deepseek-harness/commit/90ff03beb71d90a9ddf88684666770db05dd6359) Merge pull request #7777 from deepseek-harness/fix/desktop-artifact-zip-mtime — _winewill, 2026-11-04_
+- [`c05d36d`](https://github.com/deepseek-ai/deepseek-harness/commit/c05d36d6f37aac100c4ef19ad4051d566f1b1854) test(desktop): update production rollout approval snapshots — _winewill, 2026-11-04_
+- [`69db579`](https://github.com/deepseek-ai/deepseek-harness/commit/69db579d7aea734d9df00980e36ac87a87d90cac) docs(desktop): distinguish version mode and manual version — _winewill, 2026-11-04_
+- [`08c061f`](https://github.com/deepseek-ai/deepseek-harness/commit/08c061f8a7861123fb70819890a23b6c4f2366f3) Merge pull request #7425 from deepseek-harness/turtle/inspector-crash-bdc81a501c00 — _Turtle, 2026-11-04_
+- [`6fe4c14`](https://github.com/deepseek-ai/deepseek-harness/commit/6fe4c14f1eff552f832aa699496656789ed814e1) Merge branch 'codex/desktop-artifact-parent-refresh' into fix/desktop-channel-version-policy — _winewill, 2026-11-04_
+- [`3a51d53`](https://github.com/deepseek-ai/deepseek-harness/commit/3a51d539661fb74934141da57e2b473398d184de) docs(desktop): centralize and clarify archival diagnostics — _winewill, 2026-11-04_
+- [`294a359`](https://github.com/deepseek-ai/deepseek-harness/commit/294a359142aa7686157b9254af2892d48cc3168e) docs(config): regenerate catalog for the source-frame minimum — _Turtle, 2026-10-27_
+- [`e9273a7`](https://github.com/deepseek-ai/deepseek-harness/commit/e9273a7624c2cd4eaa49642ec5b370014da5cae2) fix(inspector): reject source-frame limits without a Cordis snapshot budget — _Turtle, 2026-10-27_
+- [`57aae95`](https://github.com/deepseek-ai/deepseek-harness/commit/57aae9509792e076bd6a15d08a1058509550427e) fix(inspector): reserve record overhead in the Cordis snapshot budget — _Turtle, 2026-10-27_
+- [`1ffe1a7`](https://github.com/deepseek-ai/deepseek-harness/commit/1ffe1a71db7864432f185fa8192f8ffb56422eb9) Merge branch 'codex/desktop-artifact-parent-refresh' into fix/desktop-channel-version-policy — _winewill, 2026-11-04_
+- [`16743ca`](https://github.com/deepseek-ai/deepseek-harness/commit/16743ca0888172dc979ad53a4a39ac4ea8edba4e) docs(desktop): document archive tool failure diagnostics — _winewill, 2026-11-04_
+- [`6958fd4`](https://github.com/deepseek-ai/deepseek-harness/commit/6958fd4e3a6e2faa9fb0dd524047f98e86c18a52) fix(desktop): default publication rollout to 100 percent — _winewill, 2026-11-04_
+- [`7053f88`](https://github.com/deepseek-ai/deepseek-harness/commit/7053f882a8cd5e200313bf4c4acb78d812c99d23) Merge pull request #7472 from deepseek-harness/turtle/fork-name-suffix-5f3435925211 — _Turtle, 2026-11-04_
+- [`e1cd73e`](https://github.com/deepseek-ai/deepseek-harness/commit/e1cd73e4de77bcd0204abace491da80326893b34) fix(desktop): type omitted rollout percentage explicitly — _winewill, 2026-11-04_
+
+### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+
+- [`ca43606`](https://github.com/NousResearch/hermes-agent/commit/ca4360692055bdb4df3a695c164646e528891da8) fix(remote-config): restore the caller's home when the token scope build fails — _Ben Barclay, 2026-11-06_
+- [`8774686`](https://github.com/NousResearch/hermes-agent/commit/87746862af1604a5ad7eabcd5158d5b330b40079) fix(remote-config): resolve the Nous plane token under its profile's secret scope — _Ben Barclay, 2026-11-06_
+- [`53a6ced`](https://github.com/NousResearch/hermes-agent/commit/53a6ced422214d07255302a5b900c313af3b677a) Merge pull request #149746 from NousResearch/chore/pnpm-switch — _Maciej Lisiewski, 2026-11-06_
+- [`5d72e93`](https://github.com/NousResearch/hermes-agent/commit/5d72e9382b2366ecbbc4b282e5c2a294e6e85beb) Merge pull request #149824 from NousResearch/ci/pin-gate-timing-cut — _Maciej Lisiewski, 2026-11-06_
+- [`e73fdb4`](https://github.com/NousResearch/hermes-agent/commit/e73fdb4532a5bbb732336a306e6e6334fa6e2a77) test(ci): pin ci.yaml's gate timing cut to a step the gate runs — _Maciej Lisiewski, 2026-11-06_
+- [`dfd3c61`](https://github.com/NousResearch/hermes-agent/commit/dfd3c612249a4821ce786b5c49dd309be29cf953) docs: only Hermes's builds enforce the devEngines pnpm pin — _Maciej Lisiewski, 2026-11-06_
+- [`d62c607`](https://github.com/NousResearch/hermes-agent/commit/d62c60787fe39e7673b53b9b6bd59086035e4221) fix: pnpm review follow-ups in nix, evals, the hang repro and an e2e test — _Maciej Lisiewski, 2026-11-06_
+- [`df9ffa9`](https://github.com/NousResearch/hermes-agent/commit/df9ffa977d63af49929be7edfecfa68292394147) fix(desktop): rebuild a source build whose linked Electron is gone — _Maciej Lisiewski, 2026-11-06_
+- [`b115764`](https://github.com/NousResearch/hermes-agent/commit/b115764185de0657010a48972d88fb8d3f4dc595) fix(terminal): keep the user's own NPM_CONFIG_* in terminal shells — _Maciej Lisiewski, 2026-11-06_
+- [`961ebe3`](https://github.com/NousResearch/hermes-agent/commit/961ebe31f80ddefb67f14a00d5ee268ac2ad3d84) fix(source-build): bridge ~/.npmrc when no userconfig is set — _Maciej Lisiewski, 2026-11-06_
+- [`109524c`](https://github.com/NousResearch/hermes-agent/commit/109524c048e8d2e504873b9b49ceed2bcb0af4df) test(pm): allow pnpm's per-user lock files on Windows — _Maciej Lisiewski, 2026-11-05_
+- [`9031395`](https://github.com/NousResearch/hermes-agent/commit/903139503d0dedd537a4ee70f70d51e9d247e875) fix(source-build): bridge the npmrc npm would read, with values decoded — _Maciej Lisiewski, 2026-11-05_
+- [`dc9d975`](https://github.com/NousResearch/hermes-agent/commit/dc9d975aea0dd9981d533f67f808dc985aaab5bb) fix(ci): give the OS and termux lanes everything pnpm installs — _Maciej Lisiewski, 2026-11-05_
+- [`29e78b1`](https://github.com/NousResearch/hermes-agent/commit/29e78b124efb3160c96dc421b094d5f609b076d6) docs: pnpm commands for the JS workspaces — _Maciej Lisiewski, 2026-11-05_
+- [`fc92a24`](https://github.com/NousResearch/hermes-agent/commit/fc92a24e9ac2715d9b4f517bbd7422a039054885) fix(pm): a pnpm re-pin moves the devEngines pin with it — _Maciej Lisiewski, 2026-11-05_
+- [`ced0ea7`](https://github.com/NousResearch/hermes-agent/commit/ced0ea775da6441e356e6a3be8896d0854be675f) fix(terminal): keep package-manager settings out of user shells — _Maciej Lisiewski, 2026-11-05_
+- [`7062229`](https://github.com/NousResearch/hermes-agent/commit/7062229090aa7667c65ce840875a68ff8c9ad274) chore(js): switch the workspaces from npm to pnpm — _Maciej Lisiewski, 2026-11-05_
+- [`44ec783`](https://github.com/NousResearch/hermes-agent/commit/44ec783afd1193afb7576d9c01d7fe9d18c87339) Merge pull request #149786 from NousResearch/ci/combine-small-jobs — _Maciej Lisiewski, 2026-11-06_
+- [`215aa76`](https://github.com/NousResearch/hermes-agent/commit/215aa7624ba88ec104c39e5d005e9cbfde7e01f7) fix(ci): end the gate's timing at its verdict, not at the report's steps — _Maciej Lisiewski, 2026-11-06_
+- [`7979dc0`](https://github.com/NousResearch/hermes-agent/commit/7979dc05af02dc0623af427a64abec37385048e9) fix(ci): skip the running gate's log download; drop an unseeable test — _Maciej Lisiewski, 2026-11-06_
+- [`a690002`](https://github.com/NousResearch/hermes-agent/commit/a690002eed848218df6530c0d1f258714b8d885a) fix(ci): run hadolint with a gated docker run, not the Dockerfile action — _Maciej Lisiewski, 2026-11-06_
+- [`d2c422f`](https://github.com/NousResearch/hermes-agent/commit/d2c422f2941af3f82bd5bcb1c71f8eaece4552d1) fix(ci): name each red step of a failed job in the CI review comment — _Maciej Lisiewski, 2026-11-06_
+- [`74915d7`](https://github.com/NousResearch/hermes-agent/commit/74915d7af8d3115c3eb821893f3c01ab783146a5) docs(memory): name the prune and the plugin-engine limit under checkpoint_required — _BearHuddleston, 2026-11-05_
+- [`bfcbd08`](https://github.com/NousResearch/hermes-agent/commit/bfcbd08bee3b194b315a45b58df23ba3e7f14752) fix(memory): don't count a hosted engine's prune as a withheld authority — _BearHuddleston, 2026-11-05_
+- [`9551676`](https://github.com/NousResearch/hermes-agent/commit/95516763d591606977546442291ecb8dbc3fb58d) refactor(agent): move the codex app-server checkpoint refusal beside the gate — _BearHuddleston, 2026-11-05_
+- [`14525b5`](https://github.com/NousResearch/hermes-agent/commit/14525b539c52aa46e35cc1f9741749bb4be8fe10) fix(memory): keep MEMORY.md/USER.md out of a checkpoint fork's prompt — _Jan-Stefan Janetzky, 2026-11-05_
+- [`830b6fc`](https://github.com/NousResearch/hermes-agent/commit/830b6fcfa4f4c560d68c30b16f7fa3fcc318369b) test(memory): pin fork write-suppression and the fork checkpoint guarantee — _Jan-Stefan Janetzky, 2026-10-26_
+- [`b1b3213`](https://github.com/NousResearch/hermes-agent/commit/b1b321363d2ed901a3972c1c0dc9858585d9b3ae) fix(memory): thread parent_session_id into provider initialize() — _Jan-Stefan Janetzky, 2026-10-26_
+- [`16c6bbf`](https://github.com/NousResearch/hermes-agent/commit/16c6bbfd1c2ddc735b95b3b37520cd371be9ad8b) fix(memory): suppress fork turn-writes at the host, not per provider — _Jan-Stefan Janetzky, 2026-10-26_
+- [`f02ba87`](https://github.com/NousResearch/hermes-agent/commit/f02ba87b8cea274117a91842f95c3a3c185dffd2) feat(agent): fork sub-agents inherit the memory provider under checkpoint_required — _Jan-Stefan Janetzky, 2026-10-26_
+
+### [anomalyco/opencode](https://github.com/anomalyco/opencode)
+
+- [`82229fb`](https://github.com/anomalyco/opencode/commit/82229fb7d4598455a525fbf3a3908e300c5220f6) perf(site): fetch each page's CSS once and prefetch pages on hover (#62256) — _Adam, 2026-11-06_
+- [`00adfce`](https://github.com/anomalyco/opencode/commit/00adfcee7a87f7ef20b0c90fd9c6732c46ea5e3a) chore(site): fail the build when the Worker can't start (#62230) — _Adam, 2026-11-06_
+- [`fdddc95`](https://github.com/anomalyco/opencode/commit/fdddc957c8c6c0e8dd521815a9a6566ba27dcbad) fix(site): security headers, Workers Logs and launch fixes (#62222) — _Adam, 2026-11-06_
+- [`2658ec0`](https://github.com/anomalyco/opencode/commit/2658ec02c848ce7e5bd618ee2e18256c5c0992db) fix(tui): enable transcript jumps in subagent sessions (#60817) — _Sanghyuk Lee, 2026-11-06_
+- [`97178e5`](https://github.com/anomalyco/opencode/commit/97178e54b8c0940719a64f1a8595c794cbf1e50b) chore: bench with strobe 0.11.0 (#62231) — _Luke Parker, 2026-11-06_
+- [`d951e94`](https://github.com/anomalyco/opencode/commit/d951e94cb7e79f71a221c6caa4017cf15b1bc10b) fix(tui): honor configured agent colors in Mini (#62067) — _Bence Ferdinandy, 2026-11-06_
+- [`a62a74a`](https://github.com/anomalyco/opencode/commit/a62a74a2af953ffd7da728dc9849510b073ad79d) docs(console): add Crouton Alpha Free to Go (#62221) — _opencode-agent[bot], 2026-11-06_
+- [`f92718b`](https://github.com/anomalyco/opencode/commit/f92718bec164426991d16e19d50603145c91072e) fix(tui): navigate the transcript with keypad Home and End (#59770) — _argszero, 2026-11-06_
+- [`fe1e3e3`](https://github.com/anomalyco/opencode/commit/fe1e3e35fe4a0ea0007a90fd47cd0651f6085b4a) feat(site): bring services/site up to date with the latest site work (#62219) — _David Hill, 2026-11-06_
+- [`42fceba`](https://github.com/anomalyco/opencode/commit/42fceba1d173d8982fbe301e3dbb3662d4ec3014) chore: bench with strobe 0.10.0 (#62216) — _Luke Parker, 2026-11-06_
+- [`a950fa2`](https://github.com/anomalyco/opencode/commit/a950fa27418c2f125fd20f28894c0ccbb9ff0e4f) fix(cli): rewrite noninteractive run and remove the V1 bridge (#61911) — _Aiden Cline, 2026-11-05_
+- [`0dffb96`](https://github.com/anomalyco/opencode/commit/0dffb96c4b2cd7ac51e5507fc52eda4744e30fc9) fix(core): ask external_directory before session_move leaves the project (#62204) — _Aiden Cline, 2026-11-05_
+- [`24008ab`](https://github.com/anomalyco/opencode/commit/24008abeb3df6d2bf7c9d39f69803558499062b2) feat(site): deploy the opencode.ai site separately from the docs (#62209) — _Dax, 2026-11-05_
+- [`84262f9`](https://github.com/anomalyco/opencode/commit/84262f9277f14fc3a493d46c31789942ea5cb55e) fix(www): make site tests pass on Windows (#62207) — _Aiden Cline, 2026-11-05_
+- [`e3b0ca6`](https://github.com/anomalyco/opencode/commit/e3b0ca61ad02c983ff70252b18a0480a1821a29a) fix(www): link the production update API for desktop downloads (#62198) — _Dax, 2026-11-05_
+- [`54cf5f8`](https://github.com/anomalyco/opencode/commit/54cf5f8094895c8d9bc003dc629e1f80deb1fc3d) fix(meta): route config schemas and well-known files with a query string to the meta worker (#62196) — _Dax, 2026-11-05_
+- [`74051b7`](https://github.com/anomalyco/opencode/commit/74051b71bda939b4e0f29edf3d0eb9b149311ef8) fix(web): route /docs with a query string to the v1 docs worker (#62195) — _Dax, 2026-11-05_
+- [`c64fff5`](https://github.com/anomalyco/opencode/commit/c64fff5bcbcc76b678102ebc4ce7e5a4c5f5af7c) feat(www): move the opencode.ai site into services/www and deploy with cf (#62190) — _Dax, 2026-11-05_
+- [`386229c`](https://github.com/anomalyco/opencode/commit/386229c1abe6b2014d0e88bb3ce29fa8ca1b1786) fix(stats): route /data with a query string to the stats worker (#62193) — _Dax, 2026-11-05_
+- [`2f9cbcf`](https://github.com/anomalyco/opencode/commit/2f9cbcf4eb72d599ad5aadf44ad4e198caab91fb) refactor(stats): serve opencode.ai/data straight from the stats worker (#62192) — _Dax, 2026-11-05_
+- [`80bf7f7`](https://github.com/anomalyco/opencode/commit/80bf7f7b0d38232e08eb0f5f1576cffa32eff49e) feat(web): serve v1 docs on opencode.ai/docs and own the zen/go redirects (#62183) — _Dax, 2026-11-05_
+- [`504f1dd`](https://github.com/anomalyco/opencode/commit/504f1ddb269c0f3b5a49f2b60401fbaca35d3d0e) feat(meta): serve config schemas and well-known files from their own worker (#62182) — _Dax, 2026-11-05_
+- [`14f7cb9`](https://github.com/anomalyco/opencode/commit/14f7cb9db9f5885fc0e5b622dc96ee46492d724d) chore: remove posts site (#62180) — _Dax, 2026-11-05_
+- [`900b845`](https://github.com/anomalyco/opencode/commit/900b8457baab6b3000330be09a9b3b21750e163f) chore: bench with strobe 0.9.0 (#62178) — _Luke Parker, 2026-11-05_
+- [`e23d54c`](https://github.com/anomalyco/opencode/commit/e23d54ca75cd8908cc892aae7dbb05a07123f35c) fix(app): show Open in only in file and review headers (#62174) — _Luke Parker, 2026-11-05_
+- [`32ab1f3`](https://github.com/anomalyco/opencode/commit/32ab1f3a9e5e77ba68fe3d9ef71ac19d5166e1cf) fix(app): stop loading every session for search (#62170) — _Dax, 2026-11-05_
+- [`8263ac0`](https://github.com/anomalyco/opencode/commit/8263ac0ec10827db82d8ff1db113c78ef18a83ac) fix(session-ui): copy the full prompt from Copy message (#62116) — _DS, 2026-11-05_
+- [`ae0fde7`](https://github.com/anomalyco/opencode/commit/ae0fde771d8eb499b7e030eccd08a96b2533c6f0) feat(session-ui): move user message actions into a chevron menu on each bubble (#60819) — _opencode-agent[bot], 2026-11-05_
+- [`217cc81`](https://github.com/anomalyco/opencode/commit/217cc811de9b0c1594924e89e48705871f1cacea) fix(app): bring a reader near the end down to their submitted prompt (#62151) — _Aiden Cline, 2026-11-05_
+- [`174200d`](https://github.com/anomalyco/opencode/commit/174200d95ef04b63ccd3e526074d740c06f03926) fix(console): restore Enterprise link in site header (#62149) — _Dax, 2026-11-05_
+
+### [n8n-io/n8n](https://github.com/n8n-io/n8n)
+
+- [`6a021b7`](https://github.com/n8n-io/n8n/commit/6a021b7bbfab9bc4cd8757e7c54be13ca1fc2341) chore: Update e2e impact map (#43079) — _n8n-assistant[bot], 2026-11-06_
+- [`4b5ea1d`](https://github.com/n8n-io/n8n/commit/4b5ea1de9fb9ac55e7e858500d56519603503852) chore: Move the Claude Code plugin marketplace to the repo root (no-changelog) (#43074) — _Mike Repeć, 2026-11-05_
+- [`e87308e`](https://github.com/n8n-io/n8n/commit/e87308ea697b08f49aaa137b1f0c271c0695a2bd) fix(RabbitMQ Node): Await queue bindings before returning channel (#43033) — _Manya Sharma, 2026-11-05_
+- [`a196d7d`](https://github.com/n8n-io/n8n/commit/a196d7d68f02deef479ce49a3f3138889436c50e) fix(Compression Node): Preserve custom gzip file names (#42063) — _Mangolycheematcha, 2026-11-05_
+- [`d49b632`](https://github.com/n8n-io/n8n/commit/d49b63277a0d1d60e95fbaf4efd6c002dab70067) fix: Preserve API version headers regardless of case (#42473) — _n8n-cat-bot[bot], 2026-11-05_
+- [`7a15776`](https://github.com/n8n-io/n8n/commit/7a1577667ead44c456b8353f05339045f0a4c006) fix(core): Keep the OAuth JWKS available when a retired signing key cannot be read (#42465) — _phyllis-noester, 2026-11-05_
+- [`fbebc31`](https://github.com/n8n-io/n8n/commit/fbebc31393553486b506c7de899cd717077eafee) chore: Update e2e impact map (#43051) — _n8n-assistant[bot], 2026-11-05_
+- [`a79aac7`](https://github.com/n8n-io/n8n/commit/a79aac7f9791ae9dc9d1c53a11c878521982e727) chore(MongoDB Node): Update node icon to the new MongoDB logomark (#43045) — _Ian Murray, 2026-11-04_
+- [`ddabd54`](https://github.com/n8n-io/n8n/commit/ddabd543f496b9552f864f748a8c7500174cc740) feat(Paddle Node): Rename node to Paddle Classic (#43042) — _Jon, 2026-11-04_
+- [`ca3e512`](https://github.com/n8n-io/n8n/commit/ca3e5129e58c2b6907cd8e94addb167c28b58692) chore: Alert #alerts-build when patch release preparation fails (#43036) — _n8n-cat-bot[bot], 2026-11-04_
+- [`d1bed65`](https://github.com/n8n-io/n8n/commit/d1bed6519f5a6fadddb92ef976d2855ac6776175) chore: Improve descriptions of n8n Connect-supported nodes (#41572) — _n8n-cat-bot[bot], 2026-11-04_
+- [`01c87f9`](https://github.com/n8n-io/n8n/commit/01c87f9ccca80d93cf2d6d3e87d109c5acbafdfd) fix: Make npm install of n8n work on all platforms again (#43028) — _Mike Repeć, 2026-11-04_
+- [`2730259`](https://github.com/n8n-io/n8n/commit/273025907066b1ad229cc29e7bea655bed4be022) feat(core, editor): Add n8n Apps telemetry and a Show code fake door (no-changelog) (#42985) — _Bernhard Wittmann, 2026-11-04_
+- [`d5e7db2`](https://github.com/n8n-io/n8n/commit/d5e7db2bf57dbc06e65648cdbec7f5db6b91bedc) chore: Update e2e impact map (#43019) — _n8n-assistant[bot], 2026-11-04_
+- [`44bc5b0`](https://github.com/n8n-io/n8n/commit/44bc5b0fec5507b401041de0f4271d5644f3f4a8) feat(ai-builder): Bump the default Assistant model to Claude Opus 5.5 (#42990) — _Jaakko Husso, 2026-11-03_
+- [`2509674`](https://github.com/n8n-io/n8n/commit/250967428f63a254afd9b353f3e0da8578b775c0) feat: App bindings UI (#42986) — _Dimitri Lavrenük, 2026-11-03_
+- [`b3ecad1`](https://github.com/n8n-io/n8n/commit/b3ecad1fe5aff95d6df9199a2b4f5e950b089a51) feat: Node operation annotations for engine (#41835) — _Dimitri Lavrenük, 2026-11-03_
+- [`ac7afdd`](https://github.com/n8n-io/n8n/commit/ac7afdd8ffb945d6dd1da73e72524e090c9f43b6) chore: Production n8n image ships undici 6.29.0 via @chat-adapter/discord → discord.js (CVE-2026-109383, fixed in 6.29.1) (#43010) — _n8n-cat-bot[bot], 2026-11-03_
+- [`644e4bc`](https://github.com/n8n-io/n8n/commit/644e4bcae718e4437f59a988dc156cef82f8f9cd) feat: Add app versions panel with rollback (no-changelog) (#42962) — _Bernhard Wittmann, 2026-11-03_
+- [`5339f0c`](https://github.com/n8n-io/n8n/commit/5339f0c988dd2fc89040cc5150bd3b991a4c6198) feat(editor): Link Apps to n8n Assistant chats (#42969) — _RomanDavydchuk, 2026-11-03_
+- [`c1420c6`](https://github.com/n8n-io/n8n/commit/c1420c66253871bacecbe7148754ca050a81e7f2) feat(editor): Show a message when the migration report takes long to load (#42996) — _Mike Repeć, 2026-11-03_
+- [`ddfafbf`](https://github.com/n8n-io/n8n/commit/ddfafbfbeb61bf45d5b46085e0f194df87369a3c) chore: Flaky test: N8nDataTableServer.test.ts (2 master or merge-queue commits in 72 h) (#42992) — _n8n-cat-bot[bot], 2026-11-03_
+- [`a070476`](https://github.com/n8n-io/n8n/commit/a070476f028bf199f9889408b48e7eecad0feb28) feat(core): Hide archived workflows in the migration report by default (#42781) — _Mike Repeć, 2026-11-03_
+- [`0db6d6b`](https://github.com/n8n-io/n8n/commit/0db6d6bf374db313655bc324345d1569981b78e8) fix: Exit with distinct codes for failed and incomplete community package scans (CE-3548) (#42780) — _Benny Neugebauer, 2026-11-03_
+- [`193537b`](https://github.com/n8n-io/n8n/commit/193537b4a4556df4ba4b90ba4a565210c68e926f) feat(engine): Send lifecycle events only when the control plane subscribes (#42560) — _Tomi Turtiainen, 2026-11-03_
+- [`b85c9d7`](https://github.com/n8n-io/n8n/commit/b85c9d7bcbd8f152c6e5cf789c55bbc9f74eda85) feat: Add an ability to select an element in Apps preview (#42930) — _Dimitri Lavrenük, 2026-11-03_
+- [`7560838`](https://github.com/n8n-io/n8n/commit/7560838c22dd32c38577fbf987a2a28e26068a79) Merge tag 'n8n@2.47.0' — _n8n-release-tag-merge[bot], 2026-11-03_
+- [`f4170e8`](https://github.com/n8n-io/n8n/commit/f4170e88c865d2b0382b1cb8e3e64b87263d5e88) :rocket: Release 2.47.0 (#42988) — _n8n-assistant[bot], 2026-11-03_
+- [`555b42f`](https://github.com/n8n-io/n8n/commit/555b42f61defcb9bd7986673ba9a7e877bdf48c4) feat(editor): Add the composer "+" menu to the Assistant agent chat (no-changelog) (#42826) — _Jaakko Husso, 2026-11-03_
+- [`0f8213b`](https://github.com/n8n-io/n8n/commit/0f8213bccea79e8656ee8a40649361a60c2fc440) feat: Move app visibility into the publish dialog (no-changelog) (#42791) — _Dimitri Lavrenük, 2026-11-03_
+
+### [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+
+- [`edf0264`](https://github.com/firecrawl/firecrawl/commit/edf02642c8f002576e9f26b9bbbb7b327313558c) fix(browser): close sessions Hangar no longer knows instead of failing DELETE (#5584) — _tomsideguide, 2026-11-05_
+- [`7d8e92d`](https://github.com/firecrawl/firecrawl/commit/7d8e92dc5d270b1247d60e809c3fd32f52e0e47b) Add skills search source (#5560) — _Developers Digest, 2026-11-04_
+- [`b1c476d`](https://github.com/firecrawl/firecrawl/commit/b1c476dc39f5848f7c6d98b3b8bb1c84866a8418) fix(api): return alreadySubmitted for repeated feedback (#5572) — _Max, 2026-11-04_
+- [`d297ae5`](https://github.com/firecrawl/firecrawl/commit/d297ae5f9d8474811273aee02c6d4b7e6df88b90) feat(api): document the product variant gtin, mpn and condition fields (#5556) — _Evan McCarthy, 2026-11-04_
+- [`ec3b55b`](https://github.com/firecrawl/firecrawl/commit/ec3b55bc9637fed1b64768959c76ed95ce6b622d) ci(js-sdk): pass the tarball to npm publish as a relative path (#5577) — _capy-ai[bot], 2026-11-04_
+- [`4e7c681`](https://github.com/firecrawl/firecrawl/commit/4e7c68116dec23d26466072996034cd99b08eb71) fix(api): read the PDF service's region echo for US-only teams (#5553) — _capy-ai[bot], 2026-11-04_
+- [`830fb0f`](https://github.com/firecrawl/firecrawl/commit/830fb0fb06c33360ad014e970338b263fd6723b5) feat(research): add paper search sort and row dates to the API proxy and SDKs (#5571) — _Karan Lokchandani, 2026-11-04_
+- [`a666d87`](https://github.com/firecrawl/firecrawl/commit/a666d87be901f641d1c55e92f041a3002043ecf6) fix(api): follow-ups to the GitHub search removal (#5570) — _Kris Oei, 2026-11-03_
+- [`9c71198`](https://github.com/firecrawl/firecrawl/commit/9c711988023b844e243ddfb6f8a8fa201ace6293) fix(sdks): clean removal errors and align developer search docs (#5569) — _Kris Oei, 2026-11-03_
+- [`c066954`](https://github.com/firecrawl/firecrawl/commit/c0669540825571ef680c18f3e112af0bd6c4fb3c) docs(sdks): mark the GitHub search method removed (#5536) — _Kris Oei, 2026-11-03_
+- [`0325cf3`](https://github.com/firecrawl/firecrawl/commit/0325cf38f7df50aef862324d7fa97416d93028ec) feat(api): remove the github search category with a precise 400 (#5538) — _Kris Oei, 2026-11-03_
+- [`5055e08`](https://github.com/firecrawl/firecrawl/commit/5055e08ad87b0ca0c79ec8f0fb47589ebb7353fd) feat(api): retire research index GitHub search with 410 Gone (#5537) — _Kris Oei, 2026-11-03_
+- [`16eab64`](https://github.com/firecrawl/firecrawl/commit/16eab64586cb7433233c5ab417b83145733a7a60) fix(api): raise the search feedback window default to 5 minutes (#5566) — _Kris Oei, 2026-11-03_
+- [`4591e46`](https://github.com/firecrawl/firecrawl/commit/4591e46a8e0968228b1f36681f98c475dd73127e) chore(scrapeURL): remove the stealth-skip and 429 waterfall experiments (#5565) — _rowinsg, 2026-11-03_
+- [`675de6a`](https://github.com/firecrawl/firecrawl/commit/675de6a58e60a9a32223fa094551c76195968a0c) feat(api): verify TLS certificates by default (#5539) — _rowinsg, 2026-11-03_
+- [`5ca5e53`](https://github.com/firecrawl/firecrawl/commit/5ca5e53bde538864e0ddcf359992583f381ea119) fix(api): never route Exchange-originated scrapes back to the Exchange (#5563) — _Gergő Móricz, 2026-11-03_
+- [`ee1a8c6`](https://github.com/firecrawl/firecrawl/commit/ee1a8c6eacb9752020ebb400abdfd3804566a25e) Accept Vercel Marketplace OIDC resource tokens (Phase 1, dual auth) (#4874) — _Erik Engervall, 2026-11-03_
+- [`4e327a6`](https://github.com/firecrawl/firecrawl/commit/4e327a6170e9b788be7deee67c8b05a124e22244) feat(api): extraction provider — separate rollout for ref schemas, fall back on empty-list answers (#5559) — _Abimael Martell, 2026-11-03_
+- [`c4fe71b`](https://github.com/firecrawl/firecrawl/commit/c4fe71b2372e30c5b12dc1cf8485084b87cc5f46) fix(branding): name the font each stack renders, not its fallbacks or a builder's alias (#5555) — _Abimael Martell, 2026-11-03_
+- [`136cdc8`](https://github.com/firecrawl/firecrawl/commit/136cdc890cfa62053d83238848c52a4b3a0b9364) fix(branding): see buttons behind entrance animations and page fades, read the label's text color (#5554) — _Abimael Martell, 2026-11-02_
+- [`09b8fd8`](https://github.com/firecrawl/firecrawl/commit/09b8fd8e8fa33d84de68208ed5bab3a873d61a85) feat(api): keep US-only PDF parsing, image OCR and PII redaction on US capacity (#5552) — _Gergő Móricz, 2026-11-02_
+- [`cf938ae`](https://github.com/firecrawl/firecrawl/commit/cf938aebf314d9e5f53b9bd27bc3df283f055197) fix(api): make branding script null-safe when document.body is missing (#5443) — _Abimael Martell, 2026-11-02_
+- [`2f0ec35`](https://github.com/firecrawl/firecrawl/commit/2f0ec359a691807585fe3e04b456e30cb704ec9b) fix(api): don't use the Wikipedia engine for zero data retention requests (#5551) — _Gergő Móricz, 2026-11-02_
+- [`8101b92`](https://github.com/firecrawl/firecrawl/commit/8101b92b5b093a059aecdff1d1e902e2e2b1b7ae) fix(api): send zero data retention to map's search backend (#5550) — _Gergő Móricz, 2026-11-02_
+- [`500218b`](https://github.com/firecrawl/firecrawl/commit/500218b73990450cb094b1d3332381cc5fa5e4a2) feat(api): route model calls to US endpoints for US-only teams (#5547) — _Gergő Móricz, 2026-11-02_
+- [`57ac355`](https://github.com/firecrawl/firecrawl/commit/57ac35524d9f0ffaf023d4e131a71f5e15051e87) feat(api): route US-only teams' search, research, exchange and agent requests (#5546) — _Gergő Móricz, 2026-11-02_
+- [`52e655a`](https://github.com/firecrawl/firecrawl/commit/52e655a4ba4144780e369441be35903feec264db) fix(api): keep no error text on zero data retention scrape logs (#5432) — _Gergő Móricz, 2026-11-02_
+- [`604eb26`](https://github.com/firecrawl/firecrawl/commit/604eb26e3fe0ed4192848440f8692dac3d2757da) ci: show a release summary and supersede unapproved release runs (#5413) — _capy-ai[bot], 2026-11-02_
+- [`83cfe19`](https://github.com/firecrawl/firecrawl/commit/83cfe19778c67d7b5806d4b94489d08692001bdf) fix(nuq): handle listener AMQP connection errors (#5548) — _Gergő Móricz, 2026-11-02_
+- [`49709a1`](https://github.com/firecrawl/firecrawl/commit/49709a12a171ffcf2d721947e965c1661b2e68db) fix(branding): ask Jev again without the first screen when TypeSafe refuses the image (#5544) — _Abimael Martell, 2026-11-02_
+
+### [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+
+- [`ab8561d`](https://github.com/ultraworkers/claw-code/commit/ab8561dc378150e9e65868233dd872937aa68299) docs: document UberLLM OpenAI-compatible gateway setup (#3376) — _Penguin Secret Agency, 2026-11-04_
+- [`747e160`](https://github.com/ultraworkers/claw-code/commit/747e160b59fa5086b0c9732c7191851a76778794) Merge pull request #3374 from ultraworkers/release/v0.1.11 — _Bellman, 2026-11-04_
+- [`6ac59ab`](https://github.com/ultraworkers/claw-code/commit/6ac59ab90b1ab60dac01368506dc91d4fb5535d0) docs: document LLMTR OpenAI-compatible gateway setup (#3373) — _knowhy, 2026-11-04_
+- [`67e5783`](https://github.com/ultraworkers/claw-code/commit/67e5783894a5e92b6d37dd2920e00c6ca29cf23b) release: v0.1.11 — _clawdbot, 2026-11-04_
+- [`db58b19`](https://github.com/ultraworkers/claw-code/commit/db58b190bd7de50709b3ddd781362a2bd0456f7b) fix(tools): stop NotebookEdit reusing cell ids after a delete (#3371) — _Iain, 2026-11-04_
+- [`51cfca1`](https://github.com/ultraworkers/claw-code/commit/51cfca114cf506a5d7a53ab1bffa8e1bbd3c780d) Merge pull request #3370 from ultraworkers/release/v0.1.10 — _Bellman, 2026-11-02_
+- [`1cae56f`](https://github.com/ultraworkers/claw-code/commit/1cae56fd3fd3b4fbb75ce2b12b5f2da84c46be51) release: v0.1.10 — _clawdbot, 2026-11-02_
+- [`a289024`](https://github.com/ultraworkers/claw-code/commit/a289024b353d9ff19ffa7de94f8755955a11079c) fix(tools): cut RemoteTrigger responses on a char boundary (#3369) — _Iain, 2026-11-02_
+
+### [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+
+- [`9cb76f9`](https://github.com/Significant-Gravitas/AutoGPT/commit/9cb76f9026d388c9bf2e098af2beae1cc864f055) docs(platform): Changelog v0.11.0 (#16651) — _John Ababseh, 2026-11-05_
+- [`30a2ba1`](https://github.com/Significant-Gravitas/AutoGPT/commit/30a2ba122119518259d0c30696cc5e86942136f1) feat(blocks): add Treg blocks for people, company and web data (#16393) — _Toran Bruce Richards, 2026-11-05_
+- [`5396938`](https://github.com/Significant-Gravitas/AutoGPT/commit/5396938150abd99ff5fb01f8922b9a864c4e4496) fix(backend/copilot): admit a chat turn in one statement after its lock (#15796) — _Nicholas Tindle, 2026-11-05_
+- [`0865d24`](https://github.com/Significant-Gravitas/AutoGPT/commit/0865d245d265a46824094afa3f248e128a9a5d0f) docs(platform): Changelog v0.10.0 (#16315) — _John Ababseh, 2026-11-05_
+- [`afb5149`](https://github.com/Significant-Gravitas/AutoGPT/commit/afb5149fb82c875fb83823bbecd15dd5f1acceb5) fix(backend/copilot): reuse expert checks within a turn (#15534) — _Nicholas Tindle, 2026-11-05_
+- [`ba17311`](https://github.com/Significant-Gravitas/AutoGPT/commit/ba17311fd83b292210e918f8ad8d90f07b5e38ad) fix(backend): hide bash tool without a supported sandbox (#16455) — _Nicholas Tindle, 2026-11-05_
+- [`b2e895b`](https://github.com/Significant-Gravitas/AutoGPT/commit/b2e895bcd4408ebcd93212db06636bdd94dd9143) fix(backend): validate the configured Claude CLI before subscription auth (#16457) — _Nicholas Tindle, 2026-11-05_
+- [`b03a0cf`](https://github.com/Significant-Gravitas/AutoGPT/commit/b03a0cfa7d956d63864a338f67ea9fa9658b96fe) fix(frontend): separate graph memory availability from skill learning (#16452) — _Nicholas Tindle, 2026-11-05_
+- [`7695bf3`](https://github.com/Significant-Gravitas/AutoGPT/commit/7695bf3a3387a919d7ad4b9632d056732f4a98f5) fix(platform): support atomic runtime config writes on Windows (#16450) — _Nicholas Tindle, 2026-11-05_
+- [`b540977`](https://github.com/Significant-Gravitas/AutoGPT/commit/b5409778fbaa5be2c51b841694dbbfe4b3892ce6) fix(backend): normalize configurable copilot workspace prefixes (#16454) — _Nicholas Tindle, 2026-11-05_
+- [`70d0b65`](https://github.com/Significant-Gravitas/AutoGPT/commit/70d0b65e5eb03627f3ac2d6321454cce05eca316) feat(blocks): bring the Exa integration up to date with Exa's current API (#16395) — _Toran Bruce Richards, 2026-11-05_
+- [`78749c1`](https://github.com/Significant-Gravitas/AutoGPT/commit/78749c15b4aebefb1a29ca42cd0514bb56d534ff) feat(blocks/firecrawl): add Firecrawl Alexandria data tool blocks (#16561) — _Toran Bruce Richards, 2026-11-05_
+- [`d65d26c`](https://github.com/Significant-Gravitas/AutoGPT/commit/d65d26c3e47eca896ffddfcb15977e471762fedc) Merge branch 'master' into dev — _Krzysztof Czerwinski, 2026-11-05_
+- [`ff7b0a6`](https://github.com/Significant-Gravitas/AutoGPT/commit/ff7b0a6bb9ed188fa07f565c2bb19ff97d2ad5fc) fix(backend): paying early during a trial grants the plan (hotfix, SECRT-3388) (#16649) — _Krzysztof Czerwinski, 2026-11-05_
+- [`142773b`](https://github.com/Significant-Gravitas/AutoGPT/commit/142773b9f08cab5565e3399c1db097d40f66702c) fix(frontend): send unfinished users back to onboarding and re-check on account switch (SECRT-3384) (#16629) — _John Ababseh, 2026-11-05_
+- [`a7ac100`](https://github.com/Significant-Gravitas/AutoGPT/commit/a7ac10092b3d30a24a7544286170003332f885bc) fix(platform): the side panel follows a file Otto overwrites (#16640) — _Krzysztof Czerwinski, 2026-11-05_
+- [`842dc11`](https://github.com/Significant-Gravitas/AutoGPT/commit/842dc11515d7fd979b2814ee886b96cf1ec9b348) feat(frontend/onboarding): polish the first onboarding screen (SECRT-3382) (#16623) — _Toran Bruce Richards, 2026-11-05_
+- [`300a433`](https://github.com/Significant-Gravitas/AutoGPT/commit/300a43316989c55350662e2a3ebaf4d06b7c9191) fix(backend/executor): fail credential blocks on a bad value in dry runs (#16639) — _Krzysztof Czerwinski, 2026-11-05_
+- [`1badf90`](https://github.com/Significant-Gravitas/AutoGPT/commit/1badf90af8c81f7c7e26caf286b6653973df8d57) fix(frontend): detect closed ChatGPT sign-in windows (#16451) — _Nicholas Tindle, 2026-11-04_
+- [`d9f07c3`](https://github.com/Significant-Gravitas/AutoGPT/commit/d9f07c3b018b57d319c081ce6b258a84f8a7d632) fix(backend): recover terminal turn errors and honor explicit Stop (#16528) — _Nicholas Tindle, 2026-11-04_
+- [`aed93ad`](https://github.com/Significant-Gravitas/AutoGPT/commit/aed93addb5bf00df7385d2a8190e992506f0faf2) fix(backend): omit Claude account emails from subscription logs (#16456) — _Nicholas Tindle, 2026-11-04_
+- [`6b6b8be`](https://github.com/Significant-Gravitas/AutoGPT/commit/6b6b8be005a50fab92a9799e11fe833bfbcce551) fix(backend): correct uploaded image types without guessing containers (#12017) — _AutoGPT, 2026-11-04_
+- [`2fa33c6`](https://github.com/Significant-Gravitas/AutoGPT/commit/2fa33c6ecd48f60d3d529e5700bb63a205672b32) test(frontend): wire e2e page objects by handle name and assert real run outcomes (#15432) — _Nicholas Tindle, 2026-11-04_
+- [`24a8857`](https://github.com/Significant-Gravitas/AutoGPT/commit/24a88576782256cb3060840ce67d7f48e79b50a4) fix(backend/copilot): look up a new chat's connections and expert side by side (#15714) — _Nicholas Tindle, 2026-11-04_
+- [`1f63e23`](https://github.com/Significant-Gravitas/AutoGPT/commit/1f63e23ef2b7eb797517bdf53a079bb99fb2b7b3) fix(backend/copilot): count a turn that ends in an error as failed, and export turn outcomes (#16624) — _Nicholas Tindle, 2026-11-04_
+- [`0f22f28`](https://github.com/Significant-Gravitas/AutoGPT/commit/0f22f283dc1a0dd07c21694b172e08de66e965f4) fix(frontend): send new sign-ups to onboarding, not Home and its paywall (SECRT-3384) — _Claude, 2026-11-04_
+- [`add8174`](https://github.com/Significant-Gravitas/AutoGPT/commit/add81741632899e94471f6f7d7043b0d7008d78d) feat(backend/copilot): drop redundant schema titles and window every digest node (#14377) — _Reinier van der Leer, 2026-11-04_
+- [`b128784`](https://github.com/Significant-Gravitas/AutoGPT/commit/b12878471e76fd00d2aae80ca4a2c1109448dac5) feat(platform): make the email-change approval email clear about both addresses (#16622) — _Toran Bruce Richards, 2026-11-04_
+- [`ad84617`](https://github.com/Significant-Gravitas/AutoGPT/commit/ad8461715e7f67f6f281bef01cf10a2827bcf287) feat(platform): run skills as /commands with arguments in the copilot chat (#14991) — _Nicholas Tindle, 2026-11-04_
+- [`ea4a36f`](https://github.com/Significant-Gravitas/AutoGPT/commit/ea4a36ff277dbb7acce09b9b8c2dcfaa57327b84) fix(platform): generate the Web Push (VAPID) key pair per install (#16416) — _Nicholas Tindle, 2026-11-04_
+
+### [huggingface/transformers](https://github.com/huggingface/transformers)
+
+- [`85db0e0`](https://github.com/huggingface/transformers/commit/85db0e0663d95d2b030f6f31b2c7c1dcdc08b6a3) Subconfig creation in testers (#49528) — _Raushan Turganbay, 2026-11-06_
+- [`8833c91`](https://github.com/huggingface/transformers/commit/8833c9181eec925f1b4e0096db516462044345df) [`distributed`] Trainer: reduce FSDP/HSDP gradients on the last micro-batch only (#50286) — _Ferdinand Mom, 2026-11-06_
+- [`bbe484b`](https://github.com/huggingface/transformers/commit/bbe484b5680f9cdf4d51bafc6b775b136558ab43) [`distributed`] Support HSDP with expert parallelism (#50293) — _Ferdinand Mom, 2026-11-06_
+- [`522cbe6`](https://github.com/huggingface/transformers/commit/522cbe68e0c1b1ac0c648d3d6aeebb0a23194a9f) [`distributed`] Add HSDP (`dp_replicate_size`) to `DistributedConfig` (#50285) — _Ferdinand Mom, 2026-11-06_
+- [`677b9ff`](https://github.com/huggingface/transformers/commit/677b9ff1bccf61d696018dd59b969207ef7849c2) ZeRO-3: read weights on rank 0 only and convert them one group at a time (#50284) — _Ferdinand Mom, 2026-11-06_
+- [`fa421d6`](https://github.com/huggingface/transformers/commit/fa421d61e569c4cad3e7e988b199d7222dde0435) Multmodal token count validation in processors (#49976) — _Raushan Turganbay, 2026-11-06_
+- [`f262c71`](https://github.com/huggingface/transformers/commit/f262c71703eb138381d65ced86b3aaa496be0196) Remove deprecated refs (#50374) — _Raushan Turganbay, 2026-11-06_
+- [`cdb75de`](https://github.com/huggingface/transformers/commit/cdb75de4adf71059c01f58dbd2d24d85084a397d) Fix Mistral Large 4 config (#50418) — _Cyril Vallez, 2026-11-05_
+- [`7d5d6d6`](https://github.com/huggingface/transformers/commit/7d5d6d667fb7b91580aebc3cf1bedab976fb61f5) [docs] Common quantization tasks (#50095) — _Steven Liu, 2026-11-05_
+- [`084b1fd`](https://github.com/huggingface/transformers/commit/084b1fd1b9983dca2ce12441aec4478371b9fe8f) Fix flaky `Gemma4Audio2TextModelTest::test_training_gradient_checkpointing_use_reentrant_true` (#50410) — _Yih-Dar, 2026-11-05_
+- [`7b0fec7`](https://github.com/huggingface/transformers/commit/7b0fec70d8070d7d673d0edfd3c73259f0c05bc3) Fix flaky `T5GemmaModelTest::test_decoder_model_past_with_large_inputs` (#50409) — _Yih-Dar, 2026-11-05_
+- [`7d6cae0`](https://github.com/huggingface/transformers/commit/7d6cae0807abded46f6e911855f1b14d42d9dd6c) [Model] LFM3 Family: LFM3-Text (#50322) — _Paul Pak, 2026-11-05_
+- [`5ea2380`](https://github.com/huggingface/transformers/commit/5ea23808403f2e434e47e83cc696aa61a62ac7f2) Don't pick torchcodec when it can't load or has no FFmpeg (#50362) — _eustlb, 2026-11-05_
+- [`2ffebc8`](https://github.com/huggingface/transformers/commit/2ffebc8c37cabaa20d1a310cb2952c9e35b96e83) [CB] Disable streams on MPS to fix continuous batching with torch 2.15 (#50404) — _Irakli Salia, 2026-11-05_
+- [`a15175e`](https://github.com/huggingface/transformers/commit/a15175e3cc679f6b1f11d7ffdd04cb00bead4c43) Keep enabling checkpointing on models that only define gradient_checkpointing_enable (#50349) — _Quentin Gallouédec, 2026-11-05_
+- [`f1eff63`](https://github.com/huggingface/transformers/commit/f1eff6352f15b8ed1c22561f03656c2520997c55) Fix flaky `Owlv2ModelTest::test_eager_matches_sdpa_inference_01_fp16_pad_left` (#50403) — _Yih-Dar, 2026-11-05_
+- [`9bb266d`](https://github.com/huggingface/transformers/commit/9bb266d5e4646a4e37a91d83f33607858d5df8ff) Fix flaky `PocketTTSAudioTokenizerModelTest::test_batching_equivalence` on CPU (#50402) — _Yih-Dar, 2026-11-05_
+- [`2aab563`](https://github.com/huggingface/transformers/commit/2aab563bd5c98d748e1db3e055d1527468631b8d) [`SDPA`] Fix decode under compile (#50388) — _Anton Vlasjuk, 2026-11-05_
+- [`b55e076`](https://github.com/huggingface/transformers/commit/b55e0761510c16c109614c99b333c44d8fbf1216) fix(pipelines): validate zero-shot detection batch labels (#50318) — _Srijan Roy, 2026-11-05_
+- [`924266c`](https://github.com/huggingface/transformers/commit/924266c478f7defb9841e9a759672b1234d6145c) Fix PaddleOCR-VL vision position interpolation alignment (#50384) — _Bvicii, 2026-11-05_
+- [`58d05ca`](https://github.com/huggingface/transformers/commit/58d05ca5724a434979a9fb26d4ed65dce856b854) Fix Emu3 image processor crash on float numpy images (#50226) — _陈志谦, 2026-11-05_
+- [`62dd93e`](https://github.com/huggingface/transformers/commit/62dd93e125d28fc8e1cdf6424783f5dc27762c63) Build Idefics-style vision position ids with torch.where (#49917) — _Anthony Shoumikhin, 2026-11-05_
+- [`b3187c7`](https://github.com/huggingface/transformers/commit/b3187c7faec959b0e5facb40424e68441095adca) [`distributed`] Divide the expert gradients once when `efsdp_size == 1` (#50292) — _Ferdinand Mom, 2026-11-05_
+- [`b1a76d4`](https://github.com/huggingface/transformers/commit/b1a76d4006c9a82076696afec96bb40dcd59aa2e) [compressed-tensors] better path through conversion mapping (#50238) — _Arthur, 2026-11-05_
+- [`d203390`](https://github.com/huggingface/transformers/commit/d203390173fc074638e2268c6becd140fca5d92b) Update PR CI to use torch 2.15 (#50361) — _Yih-Dar, 2026-11-04_
+- [`0f5a2a5`](https://github.com/huggingface/transformers/commit/0f5a2a5bc682d01ce606533a91125141eb0377bc) Exclude attention-masked padding from repetition penalty (#50149) — _Srijan Roy, 2026-11-04_
+- [`9b28342`](https://github.com/huggingface/transformers/commit/9b283429f9bf5c680bec437ab888c435dd2fef8b) Do not touch torch internal compilation flags in chunked prefill (#50358) — _Cyril Vallez, 2026-11-04_
+- [`9822ea6`](https://github.com/huggingface/transformers/commit/9822ea6ea8867935b17f804fc2bd2f16b5711aba) [`Rope`] Fix per layer rope in head dim manipulation (#49864) — _Anton Vlasjuk, 2026-11-04_
+- [`1949589`](https://github.com/huggingface/transformers/commit/1949589178def2d24d1a08c344eeffc2c2eb4658) Update FSDP non-rank-0 missing keys test after #45649 (#50260) — _Marc Sun, 2026-11-04_
+- [`f8a1e1f`](https://github.com/huggingface/transformers/commit/f8a1e1fba977ecd39e1b877312f4452a2ba570fa) [`FA`] Fix head dim manipulation for more special models (#49862) — _Anton Vlasjuk, 2026-11-04_
+
+### [langgenius/dify](https://github.com/langgenius/dify)
+
+- [`da24f6d`](https://github.com/langgenius/dify/commit/da24f6d13302bd0e2df94f8608c0852d935d23a8) test(api): verify workflow publish transactions with SQLite (#45142) — _周龙杰, 2026-11-06_
+- [`2ba1b29`](https://github.com/langgenius/dify/commit/2ba1b2965bb1ad8e2c8ace5b78d57f1b8414b3cc) test(api): annotate three model and task test modules for strict pyrefly (#45627) — _yetuge, 2026-11-06_
+- [`4f47f72`](https://github.com/langgenius/dify/commit/4f47f72122164c87e4a5cc5b135b97e96614b152) test(api): bring the workflow model tests under strict pyrefly (#45629) — _yetuge, 2026-11-06_
+- [`929c01f`](https://github.com/langgenius/dify/commit/929c01ff9bd815213ef86f028490d23aceefe9fc) fix(api): fix typos in trigger service, layers, and human input entities (#45680) — _mechmaster20, 2026-11-06_
+- [`9dd42b0`](https://github.com/langgenius/dify/commit/9dd42b024e0e97ed7e8e088c6f7228bfcb042e14) fix(web): load Arabic and Lao date locales (#45571) — _0718lol, 2026-11-06_
+- [`5507d46`](https://github.com/langgenius/dify/commit/5507d4630bb72aaca850c1216a950797aff0cb58) refactor(api): drop global db.session from workflow run trace assembly (#45679) — _Paul Y Hui, 2026-11-06_
+- [`ee250dc`](https://github.com/langgenius/dify/commit/ee250dcb94ecd8ca025436c0ad71628f64d80aa6) fix(web): keep every dialog within the viewport through its styling contract (#45686) — _yyh, 2026-11-06_
+- [`15b45d1`](https://github.com/langgenius/dify/commit/15b45d1dac2bb19ba456433eb9d8bf81df55b196) fix(web): align signin forgot-password link with text link styling (#45687) — _yyh, 2026-11-06_
+- [`e994c3f`](https://github.com/langgenius/dify/commit/e994c3ffe9482797df8546a921142868db4dc6ac) feat(web): open goto-anything as a bottom drawer and replace search syntax with scopes (#45675) — _yyh, 2026-11-05_
+- [`686b51f`](https://github.com/langgenius/dify/commit/686b51f0d7f514eb4692e4ff2401aa36194b07b5) fix(rag): keep embedding vectors aligned when one in a batch is dropped (#45569) — _lianbie, 2026-11-05_
+- [`5253ee2`](https://github.com/langgenius/dify/commit/5253ee2f08203429c479792e40bff19c3137287b) fix(web): keep dialogs within the viewport on narrow screens (#45668) — _yyh, 2026-11-05_
+- [`803f5d3`](https://github.com/langgenius/dify/commit/803f5d3d9cc98fd9e03360c87dcc925b780ac128) refactor(api): isolate trigger subscription management (#44541) — _非法操作, 2026-11-05_
+- [`84004c7`](https://github.com/langgenius/dify/commit/84004c7c31b41379d13b0e080bac831bc8231c71) refactor(web): read system features through suspense queries (#45657) — _yyh, 2026-11-05_
+- [`ce826bd`](https://github.com/langgenius/dify/commit/ce826bd148e5546c6aded8905455127cf763067c) fix(web): keep the model provider page stable while it loads (#45654) — _yyh, 2026-11-05_
+- [`fe54b2a`](https://github.com/langgenius/dify/commit/fe54b2ab67da1ef702e5e81429f5eaf1c2810533) fix(dify-ui): draw the drawer hairline as a ring and drop DrawerContent padding (#45651) — _yyh, 2026-11-05_
+- [`b9bf6ea`](https://github.com/langgenius/dify/commit/b9bf6ea1825865144009a3c7c87f0677f2e073e8) feat(web): open the main nav in a drawer on narrow screens (#45650) — _yyh, 2026-11-05_
+- [`e1bca63`](https://github.com/langgenius/dify/commit/e1bca6369bddf6f69a720548bf1aea871ae26911) fix(web): focus auth fields on arrival and keep auth switches keyboard reachable (#45640) — _yyh, 2026-11-05_
+- [`45279b7`](https://github.com/langgenius/dify/commit/45279b704d4416f43cff669a33e329099fefb6b1) feat: restrict SaaS workflow collaboration to paid plans (#45549) — _非法操作, 2026-11-05_
+- [`107bbf8`](https://github.com/langgenius/dify/commit/107bbf85ca65f115d5c9d41381eb68834a0b41b3) refactor(api): inject trigger subscription builder lifecycle (#44532) — _非法操作, 2026-11-05_
+- [`8837791`](https://github.com/langgenius/dify/commit/8837791cc9edbfa45206cd83a490db40c9f13525) test(web): await document title updates in human input form spec (#45635) — _Stephen Zhou, 2026-11-05_
+- [`fe2b8bd`](https://github.com/langgenius/dify/commit/fe2b8bd3466efe353ba15111f0049dce05b789e4) fix(tools): preserve exponent-form custom API body numbers (#45548) — _MindOfqc, 2026-11-05_
+- [`0ec0253`](https://github.com/langgenius/dify/commit/0ec025391450f60f95718a9d97194e0142a8d603) fix(web): keep first query outcomes axis label inside chart (#45632) — _Stephen Zhou, 2026-11-05_
+- [`1f0744c`](https://github.com/langgenius/dify/commit/1f0744c2ef5f846f65c31d40ab93015c0340b6ad) fix(web): render auth pages without waiting on client status probes (#45634) — _yyh, 2026-11-05_
+- [`0be453d`](https://github.com/langgenius/dify/commit/0be453d27b22f8495009bd1fd4ae4cd7f39773cd) fix(trace): send Langfuse traces over OpenTelemetry (#45606) — _Xiyuan Chen, 2026-11-05_
+- [`db3ffcc`](https://github.com/langgenius/dify/commit/db3ffcc92b96932e3eb46c0c566a104820dc390d) refactor(api): isolate trigger provider and subscription queries (#44514) — _非法操作, 2026-11-05_
+- [`0712c68`](https://github.com/langgenius/dify/commit/0712c68a842aa727a7a88de5c440120c2de1c1b8) fix(qdrant): scope ID deletion to the dataset (#45586) — _Jasper, 2026-11-05_
+- [`88a564d`](https://github.com/langgenius/dify/commit/88a564d20cbce57c010c6444c440f2a69b729a3b) fix(web): scope viewport-fit=cover to human-input pages (#45624) — _yyh, 2026-11-05_
+- [`ce7ccc3`](https://github.com/langgenius/dify/commit/ce7ccc375415b85cefe69da084aa517de1112df2) fix(api): use the dataset doc_form when document requests omit it (#45581) — _Tianyu Cai, 2026-11-05_
+- [`1151769`](https://github.com/langgenius/dify/commit/11517691d29624ffedaed437864b0b0ed6c49f2f) refactor(api): isolate trigger OAuth authorization flow (#44505) — _非法操作, 2026-11-05_
+- [`31abad4`](https://github.com/langgenius/dify/commit/31abad4f0df72feaba6f7311af0e0376874bc39b) fix(web): fit auth pages on small screens (#45600) — _yyh, 2026-11-05_
+
+### [pytorch/pytorch](https://github.com/pytorch/pytorch)
+
+- [`0bcfbee`](https://github.com/pytorch/pytorch/commit/0bcfbeeed87d201bf80d4fcd826dc4f4209b8be9) [llm-selector] Factor run_test.py's --enable-td default into td_enabled_default (#203448) — _Bob Ren, 2026-11-05_
+- [`625eb58`](https://github.com/pytorch/pytorch/commit/625eb586c435ba098adb78741ceb2a173debca4c) [llm-selector] Name discover_tests.py's blocklisted test directories (#203438) — _Bob Ren, 2026-11-05_
+- [`1a19478`](https://github.com/pytorch/pytorch/commit/1a194781ec386fe005eba8119c9a126db571032d) [CD] Update bundled MKL to 2026.2.0 (fixes DLASD2 deflation bug in torch.linalg.svd) (#203059) — _Andrey Talman, 2026-11-06_
+- [`b9ff439`](https://github.com/pytorch/pytorch/commit/b9ff4392cd1ae15e1f23ac811a9fec368c8bc3b9) Use TORCH_CHECK_VALUE for adaptive_avg_pool2d input validation (#195550) — _mramaran, 2026-11-06_
+- [`261d0cb`](https://github.com/pytorch/pytorch/commit/261d0cba4d09542773e581caf278dbd27a39df9d) [Inductor][ROCm] Fix singleton column scale layout for CK FP8 GEMM (#202816) (#202816) — _Bin Bao, 2026-11-06_
+- [`b79f21b`](https://github.com/pytorch/pytorch/commit/b79f21bab5e9e221b05bc903f7d8171a8c04a8a0) Include <cstdint> in caffe2/utils/string_utils.h for int32_t (#203668) — _Felix Janda, 2026-11-06_
+- [`2ee7a63`](https://github.com/pytorch/pytorch/commit/2ee7a63cc8feb9171418ac602c0434dbb88348a1) [targets2buck][caffe2] Move the dirsynced binaries, modules, torch/lib/libshm and torch/headeronly/macros TARGETS files to BUCK (#203262) (#203262) — _Jon Janzen, 2026-11-06_
+- [`09130d7`](https://github.com/pytorch/pytorch/commit/09130d70408c997d49f2ddee6b720b7356ee7291) [test] Run the oneDNN LSTM double-backward test once, with 2 layers (#203586) — _drisspg, 2026-11-05_
+- [`d6f6c77`](https://github.com/pytorch/pytorch/commit/d6f6c77cb983371a41ff99515d463bca467a081e) [test] Keep Dynamo out of test_vmap's eager reference_vmap (#203585) — _drisspg, 2026-11-05_
+- [`2059d9a`](https://github.com/pytorch/pytorch/commit/2059d9aec4fa45088c3bdec30d7a992f61b51604) [test] Skip test_optimize_for_inference_cpu_torchvision under Dynamo (#203584) — _drisspg, 2026-11-05_
+- [`cb61663`](https://github.com/pytorch/pytorch/commit/cb6166381fcee1217527b26108d3aad518b946b1) Enforce cond's branch-output aliasing check under auto-functionalization (#201809) — _guanam, 2026-11-06_
+- [`d845e9b`](https://github.com/pytorch/pytorch/commit/d845e9b01222e06f5e14561869b981700d13aed0) [PyTorch] Use the same OperatorEntry kernel storage and tags on mobile (#203469) (#203469) — _Alban Desmaison, 2026-11-06_
+- [`883b8ec`](https://github.com/pytorch/pytorch/commit/883b8ece939bc167cf8ece25b3a12ebb313ba86e) [mergebot] Wait for every check of the PRs a stacked merge lands below the merged one (#203691) — _jeanschmidt, 2026-11-05_
+- [`fc50c78`](https://github.com/pytorch/pytorch/commit/fc50c78b5121c6457ea64a7aea88d1cdc140dc66) Revert "[CI] Abort builds/tests for 10+ deep ghstacks (#185290)" (#203699) — _jeanschmidt, 2026-11-05_
+- [`8a66876`](https://github.com/pytorch/pytorch/commit/8a6687687792c64cbae5510f34fca8a59607f142) Remove the duplicate compile-time autotune CI run (#203624) — _Michael Lazos, 2026-11-05_
+- [`8c76253`](https://github.com/pytorch/pytorch/commit/8c76253386fb227da625b0b9c68f32af0f48f373) [ROCm] Use the lazy MaybeSetDevice path on ROCm (#203037) — _Chinmay Kuchinad, 2026-11-05_
+- [`cbd6936`](https://github.com/pytorch/pytorch/commit/cbd69365b9516c0f819385223c6c5f72626e93b1) [ROCm] Reuse a per-stream handle only on the stream it ran on (#202678) (#202678) — _Joshua Su, 2026-11-05_
+- [`d041316`](https://github.com/pytorch/pytorch/commit/d041316f6eb85f6e285f7fcb4eb95caefaf48140) [inductor][regional-aoti] Add region config and marking API (#201014) (#201014) — _Cynthia Yang, 2026-11-05_
+- [`4728b98`](https://github.com/pytorch/pytorch/commit/4728b98e52e0188949ebf865bc09333e4a865a87) Add optimizer review guidance (#203656) — _Jane Xu, 2026-11-05_
+- [`1f6f004`](https://github.com/pytorch/pytorch/commit/1f6f004f0d320aee3635b19541915a9e01dc2a93) [pr-review] Separate blocking from non-blocking findings (#203531) — _Bita Bayestehparvin, 2026-11-05_
+- [`3fe992b`](https://github.com/pytorch/pytorch/commit/3fe992b2ef5aded4c887055e05d4c6430607811b) Add dsashidh and ayushsatyam146 to Dynamo merge rules (#203419) — _Guilherme Leobas, 2026-11-05_
+- [`fcba91c`](https://github.com/pytorch/pytorch/commit/fcba91cced5f55d55b46f54fbe656824a7e98aae) [dynamo] Guard tensor method descriptors in BaseTorchVariable (#202891) — _Zhongcheng Yang, 2026-11-05_
+- [`34bff1c`](https://github.com/pytorch/pytorch/commit/34bff1ce4817d1c7076cb4aa1ee0d9f9a01f31d6) [inductor] Treat Jetson Thor (SM 11.0) as datacenter Blackwell (#202001) — _Anthony Shoumikhin, 2026-11-05_
+- [`c38c894`](https://github.com/pytorch/pytorch/commit/c38c89461d5ce653e9cd8d4a572f720b91a0bbe5) [CMake] Build oneDNN by default on AArch64 (#203582) — _Nikita Shulga, 2026-11-05_
+- [`194ffd2`](https://github.com/pytorch/pytorch/commit/194ffd28b945fc872b585194157c6b55fa21d0b5) [Test] Make host memory stats tests order-independent (#200264) — _Aleksa Arsic, 2026-11-05_
+- [`5147d2c`](https://github.com/pytorch/pytorch/commit/5147d2c4bd20ab0774ff54f6b8fafa00ec48ce56) [Test][XPU] Remove XPU skips in test_repros.py (#187647) — _gplutop7, 2026-11-05_
+- [`9f276f6`](https://github.com/pytorch/pytorch/commit/9f276f6c11b172e0202b88fe513445deaf87976e) [ROCm] Use get_cycles_per_ms for the symm-mem lifecycle test hold (#203291) — _Jeff Daily, 2026-11-05_
+- [`9bb2836`](https://github.com/pytorch/pytorch/commit/9bb2836683cf1294e6077f5fb3e5a419dec665c2) [GDS] Fix race condition in test_cuda GDS tests, add stream-ordered async load/save_storage API, enable GDS tests when compat mode available (#197571) — _John Tyler, 2026-11-05_
+- [`754c3d1`](https://github.com/pytorch/pytorch/commit/754c3d1f4e2fc1f3f9ca8db87dda9f1dd1c7fc1e) Don't materialize conj/neg views in generated c_shim_aten shims (#202917) — _Jane Xu, 2026-11-03_
+- [`05af901`](https://github.com/pytorch/pytorch/commit/05af9019712c4335aab71abeeacc26d7b5775e06) [CPP FakeTensor] Bind the C++ FakeTensorMode to Python (#200435) — _Angel Li, 2026-11-05_
+
+### [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+
+- [`8444f2a`](https://github.com/kubernetes/kubernetes/commit/8444f2ac3454c75ea2122bfae83c2dcedd1e7302) Merge pull request #143747 from romanbaron/opportunistic-batching-test-typo — _kubernetes-prow[bot], 2026-11-06_
+- [`5d4de34`](https://github.com/kubernetes/kubernetes/commit/5d4de34f9e52d76a79554887ce8a35dc43699d37) Merge pull request #143406 from mengqiy/objcompress1 — _kubernetes-prow[bot], 2026-11-06_
+- [`1ca7499`](https://github.com/kubernetes/kubernetes/commit/1ca7499c9a5669c1f025dbe14f1da7dd9a0eb58a) Merge pull request #142397 from everettraven/upstream/mldsa/sa-token-gen — _kubernetes-prow[bot], 2026-11-06_
+- [`e405cba`](https://github.com/kubernetes/kubernetes/commit/e405cba3cdaf40eedfc4cec863e70e08623a5d6e) Merge pull request #143823 from SEPURI-SAI-KRISHNA/fix-kubeadm-windows-socket-probe-leak — _kubernetes-prow[bot], 2026-11-05_
+- [`ce80978`](https://github.com/kubernetes/kubernetes/commit/ce80978422834ef6aa334326462b07b8f7d4a08b) Merge pull request #143778 from tallclair/remove_inplace_pod_scaling — _kubernetes-prow[bot], 2026-11-05_
+- [`d9229a7`](https://github.com/kubernetes/kubernetes/commit/d9229a7cd1b0893e8385b894c72471005a6fb7eb) Merge pull request #143776 from jpbetz/rbac-bootstrap-list-reconcile — _kubernetes-prow[bot], 2026-11-05_
+- [`5897b3a`](https://github.com/kubernetes/kubernetes/commit/5897b3ac79518ce8131456da7381e968ceccc066) Merge pull request #139079 from carlory/remove-fg-RecoverVolumeExpansionFailure — _kubernetes-prow[bot], 2026-11-05_
+- [`6b009f6`](https://github.com/kubernetes/kubernetes/commit/6b009f670d44c2d53322b6c2c20ce6db45c4f6ba) Trim compression duration buckets and split unframed read outcomes — _David Yu, 2026-11-05_
+- [`fa28c7a`](https://github.com/kubernetes/kubernetes/commit/fa28c7a73b41799d3ad2dbe8bac0f93b6554d5d2) Merge pull request #143855 from serathius/optimistic-concurrency-whitebox-test — _kubernetes-prow[bot], 2026-11-05_
+- [`21152c8`](https://github.com/kubernetes/kubernetes/commit/21152c85249ef81537a9b0089f3e697352ff4f09) Merge pull request #143847 from serathius/watchcache-test-watch-stall — _kubernetes-prow[bot], 2026-11-05_
+- [`59caf3e`](https://github.com/kubernetes/kubernetes/commit/59caf3e1837ae78d56917479a49572f92e2bd51a) Merge pull request #143463 from jdzikowski/podgrouppostfilter-warning — _kubernetes-prow[bot], 2026-11-05_
+- [`0bf39fd`](https://github.com/kubernetes/kubernetes/commit/0bf39fd17169a6c933a6cb403c88656cd020aabf) feat: add mldsa token support — _Bryce Palmer, 2026-09-23_
+- [`49e17e2`](https://github.com/kubernetes/kubernetes/commit/49e17e24dc9b4665378557ee5b544b08e19e4dd0) Merge pull request #142823 from bodapatisaikrishna/fix/141528-fake-tracker-lost-delete — _kubernetes-prow[bot], 2026-11-05_
+- [`4ffa763`](https://github.com/kubernetes/kubernetes/commit/4ffa763ad2dfa03920c0dc0cc64c6e3133194bc3) Skip up-to-date bootstrap RBAC objects using the initial Lists — _Joe Betz, 2026-11-03_
+- [`be90f56`](https://github.com/kubernetes/kubernetes/commit/be90f569f35f2a297a9023dbdc61ca497423a3b1) Remove InPlacePodVerticalScaling feature gate — _Tim Allclair, 2026-11-04_
+- [`fa16fcb`](https://github.com/kubernetes/kubernetes/commit/fa16fcb9e9ec8861212097818facbf405bea7d4d) features: add ServiceAccountTokenMLDSA feature gate — _Bryce Palmer, 2026-09-28_
+- [`af0bcbe`](https://github.com/kubernetes/kubernetes/commit/af0bcbeb8e137d3d48b7ea2d384b74198870575e) deps: bump go-jose/go-jose for ML-DSA support — _Bryce Palmer, 2026-09-23_
+- [`61c480c`](https://github.com/kubernetes/kubernetes/commit/61c480cfdd9761048409d736ce3a66cd9e0a6d37) Prepare whilebox test for consistent get — _Marek Siarkowicz, 2026-11-05_
+- [`a6f04b6`](https://github.com/kubernetes/kubernetes/commit/a6f04b605a786abb122ccc314106868fc82ad29e) Merge pull request #143587 from antcybersec/remove-gate-nodeswap — _kubernetes-prow[bot], 2026-11-05_
+- [`2f96539`](https://github.com/kubernetes/kubernetes/commit/2f96539e69440c3cb9349b1a91959149e345a7c1) Merge pull request #143478 from pacoxu/dra-partition-ga — _kubernetes-prow[bot], 2026-11-05_
+- [`0d89050`](https://github.com/kubernetes/kubernetes/commit/0d89050dd0c6b431fa8545f8c13199be2b5347bf) Merge pull request #143810 from benluddy/tabular-serializer-benchmark — _kubernetes-prow[bot], 2026-11-05_
+- [`830030f`](https://github.com/kubernetes/kubernetes/commit/830030fc390eb3ecff804fe604bd74b81590d8b4) Merge pull request #142956 from galal-hussein/kep_3541_beta — _kubernetes-prow[bot], 2026-11-05_
+- [`6b49701`](https://github.com/kubernetes/kubernetes/commit/6b49701ed8f901949414381995eadf99d6aa37d1) kubeadm: close the probe connection in isExistingSocket on Windows — _SEPURI-SAI-KRISHNA, 2026-11-05_
+- [`dd676c8`](https://github.com/kubernetes/kubernetes/commit/dd676c86809dd0e590a223e9d3542a533a662903) Merge pull request #143841 from serathius/measure-request-allocations-benchtime — _kubernetes-prow[bot], 2026-11-05_
+- [`c87af0b`](https://github.com/kubernetes/kubernetes/commit/c87af0b8186e0c95ec762fea9e4430605c52eaa4) Merge pull request #143657 from H3xKatana/bump-go-jose-v4.1.7 — _kubernetes-prow[bot], 2026-11-05_
+- [`6db0d5a`](https://github.com/kubernetes/kubernetes/commit/6db0d5aa20e7fe1dbeb53fc7a13d8d4261945e9b) Merge pull request #142789 from stlaz/ctb_automount — _kubernetes-prow[bot], 2026-11-05_
+- [`1f793e1`](https://github.com/kubernetes/kubernetes/commit/1f793e1740e44b5c628dd47ecdc54a49483d5e5b) Merge pull request #143604 from asvw/upgrade-diff-dry-run-etcd — _kubernetes-prow[bot], 2026-11-05_
+- [`be0e3eb`](https://github.com/kubernetes/kubernetes/commit/be0e3ebb2195049dfe3a2ea854cc6a48c3bf316e) Merge pull request #143495 from jdzikowski/validate-basic-disruption-all-api — _kubernetes-prow[bot], 2026-11-05_
+- [`f3ece88`](https://github.com/kubernetes/kubernetes/commit/f3ece885b2eae2657e9c09fabd361aa8daec5a37) scheduler: log error when PostFilter plugin does not implement PodGroupPostFilterPlugin — _Jarosław Dzikowski, 2026-10-27_
+- [`9a91e4b`](https://github.com/kubernetes/kubernetes/commit/9a91e4bd8035f9d47c15fe0ebe8c75fa6e79273c) Test resync of stalled watchers — _Marek Siarkowicz, 2026-11-05_
+
+### [ollama/ollama](https://github.com/ollama/ollama)
+
+- [`6362e0a`](https://github.com/ollama/ollama/commit/6362e0a30887bdd4f69e07a94e8a513383576204) openai: return an empty array for /v1/models when no models are installed (#19539) — _liangliang205, 2026-11-06_
+- [`e968efb`](https://github.com/ollama/ollama/commit/e968efb60ad8e50f6f3340fe18a0836c80262759) openai: forward truncation option in responses requests (#19501) — _Marlon Ferreira, 2026-11-06_
+- [`02480ca`](https://github.com/ollama/ollama/commit/02480ca2a47153e1f9c31cbe1e05536da97ce1ba) cmd/launch: add Kimi Code CLI support (#19506) — _J Berg, 2026-11-05_
+- [`8e264f8`](https://github.com/ollama/ollama/commit/8e264f8989b524c3534678cebbb1bb11adf9bde7) mlxrunner: close generation cache on shutdown (#19550) — _Patrick Devine, 2026-11-05_
+- [`f60dd20`](https://github.com/ollama/ollama/commit/f60dd2060f670263a9b0078f0d5108a92cce4807) cmd: restore the no-argument launcher (#19478) — _Parth Sareen, 2026-11-05_
+- [`32ce437`](https://github.com/ollama/ollama/commit/32ce4379ccee95f8d6cd21fbf822a464cafeb14f) cmd/launch: show gateway model names in Claude Desktop's model picker (#19533) — _Parth Sareen, 2026-11-05_
+- [`84dc81d`](https://github.com/ollama/ollama/commit/84dc81db1fa22ea3a7e6279b85cadcd955cb61f8) llama-server: allow parallel requests for recurrent and vision models (#19545) — _Daniel Hiltgen, 2026-11-05_
+- [`a6d3325`](https://github.com/ollama/ollama/commit/a6d33251620eef7629c73b09e672f2df243eb363) llama.cpp: version bump b12111 (#19530) — _Daniel Hiltgen, 2026-11-05_
+- [`cdd4b55`](https://github.com/ollama/ollama/commit/cdd4b55b43ae14ea56946802f30f0661223a05cf) mlx: support YaRN scaling in Qwen3 and Qwen3.5 (#19231) — _Patrick Devine, 2026-11-04_
+- [`2e7b870`](https://github.com/ollama/ollama/commit/2e7b870fbcec32da4b8864a1f715d7809c801490) mlx: reject unsupported CUDA devices (#19521) — _Daniel Hiltgen, 2026-11-04_
+- [`d666cdb`](https://github.com/ollama/ollama/commit/d666cdb246504d6f0039fbe44674dd659fa4b0e8) Add AutoTrust decision model to MLX (#19399) — _Daniel Hiltgen, 2026-11-04_
+- [`e9fde36`](https://github.com/ollama/ollama/commit/e9fde36d75fea66579d84099956ce1430792737a) launch: populate Pi models automatically (#19460) — _Eva H, 2026-11-03_
+- [`355eaee`](https://github.com/ollama/ollama/commit/355eaee353f81f598932faf3226344d39e482860) model: add MiMo V2.6 renderer for Qwen3.5 (#19400) — _Daniel Hiltgen, 2026-11-03_
+- [`ddf2248`](https://github.com/ollama/ollama/commit/ddf22489b61e67b48fd2a3bad753a1da35d78bd4) mlx: load bundled CUDA libraries in-process on Linux (#19433) — _Daniel Hiltgen, 2026-11-03_
+- [`9a3e817`](https://github.com/ollama/ollama/commit/9a3e8177767245acc62b735eba7d5d8a553606d0) server: decode cloud web search responses (#19476) — _Parth Sareen, 2026-11-03_
+- [`0c85e0a`](https://github.com/ollama/ollama/commit/0c85e0afbe61402bc585ebccf15a3f4d358aa784) launch: check ChatGPT routing before configuring (#19470) — _Eva H, 2026-11-02_
+- [`c1db5f9`](https://github.com/ollama/ollama/commit/c1db5f9ef203b2e946161bf4c6bd4f2ec7f123b3) openai: don't override model sampler defaults (#19432) — _Daniel Hiltgen, 2026-10-31_
+- [`f932341`](https://github.com/ollama/ollama/commit/f9323416f0c3f84d82f6c4a7bde75b717448bd44) feat(launch): use model output limits for Claude Code (#19410) — _Parth Sareen, 2026-10-30_
+- [`174cb1d`](https://github.com/ollama/ollama/commit/174cb1dcca9c21faaa77488c98cc997ea6d4bb00) app: make ChatGPT disconnect failures retryable (#19336) — _Eva H, 2026-10-30_
+
+### [public-apis/public-apis](https://github.com/public-apis/public-apis)
+
+- [`fbc3108`](https://github.com/public-apis/public-apis/commit/fbc3108977184f4e803b700c1c6f0903f563595b) Merge pull request #8504 from RoyNelsonCondor/add-barcode-lookup-api — _commit10, 2026-11-05_
+- [`f24d512`](https://github.com/public-apis/public-apis/commit/f24d512cc2b96c5585cfaca3d229caed358f90f6) Merge pull request #8503 from RoyNelsonCondor/add-sanctions-screening-api — _commit10, 2026-11-05_
+- [`f224954`](https://github.com/public-apis/public-apis/commit/f2249540b54307819b378cdf3440bebfc370b4e5) Merge pull request #8502 from RoyNelsonCondor/add-company-enrichment-api — _commit10, 2026-11-05_
+- [`c21f7c6`](https://github.com/public-apis/public-apis/commit/c21f7c60b3b02dc7b7cac20b887655b0657f0b71) Merge pull request #8501 from ardey26/feat/add-alphagrowth-api — _commit10, 2026-11-05_
+- [`ba3e631`](https://github.com/public-apis/public-apis/commit/ba3e631221fa50c79c2a045d28639285cee4a18b) Merge pull request #8500 from NarwhalThePong/add-us-per-diem-api — _commit10, 2026-11-05_
+- [`80bbd0d`](https://github.com/public-apis/public-apis/commit/80bbd0de02f54a73a0f1c76083293f213c5d7de5) Merge pull request #8499 from NarwhalThePong/add-seller-fee-api — _commit10, 2026-11-05_
+- [`96f0351`](https://github.com/public-apis/public-apis/commit/96f03510f2cccb5813dc8f13ca2a3a86b10a610c) Merge pull request #8497 from NarwhalThePong/patch-1 — _commit10, 2026-11-05_
+- [`961aa9f`](https://github.com/public-apis/public-apis/commit/961aa9f06928167b7d198259cd28def23b55370e) Merge pull request #8494 from leebailey88/add-grizzly-bulls-economic-data — _commit10, 2026-11-05_
+- [`6477fe1`](https://github.com/public-apis/public-apis/commit/6477fe12bea810c21fa743fd82c44bc312856063) Merge pull request #8493 from garysze77/add-shelfwatch-cpsc-recalls-api — _commit10, 2026-11-05_
+- [`865226f`](https://github.com/public-apis/public-apis/commit/865226fb089e3305628700523e13abd4451f4b79) Merge pull request #8490 from Venkata-OSS-Contribution-Practice/add-freecurrency-api — _commit10, 2026-11-05_
+- [`7ccf284`](https://github.com/public-apis/public-apis/commit/7ccf2846594eb0aaabd2f7343d2fadf904948b2a) Merge pull request #8489 from nvriese1/add-pictograph-api — _commit10, 2026-11-05_
+- [`f44e0bb`](https://github.com/public-apis/public-apis/commit/f44e0bb5e3da3d045ed8e5ced5b61f28cc0226d0) Merge pull request #8488 from Nietzsche247/add-patentref-api — _commit10, 2026-11-05_
+- [`e3ad2b0`](https://github.com/public-apis/public-apis/commit/e3ad2b04cfc58347b186bb40209df90d8f0f8a1c) Merge pull request #8486 from bmsdave/add-close-knit — _commit10, 2026-11-05_
+- [`a7536b1`](https://github.com/public-apis/public-apis/commit/a7536b142e60e6a0be8d6b98ef72de77dacff5ed) Merge pull request #8484 from LGDaan/add-pandlens — _commit10, 2026-11-05_
+- [`100dadb`](https://github.com/public-apis/public-apis/commit/100dadb70f0e227c6287b6da59437fe6745239a7) Merge pull request #8470 from pcameron80/add-paint-color-hq — _commit10, 2026-11-05_
+- [`9acb3ec`](https://github.com/public-apis/public-apis/commit/9acb3ecd253a734212c4fe94e850d890e49a4d07) Merge pull request #8467 from riccardosabatti/add-flyitalyadsb-api — _commit10, 2026-11-05_
+- [`985fa59`](https://github.com/public-apis/public-apis/commit/985fa5907fb02dfb55847c2df79f715450152233) Merge pull request #8460 from fazal-bhinder/add-discord-timestamp-generator — _commit10, 2026-11-05_
+- [`29cb369`](https://github.com/public-apis/public-apis/commit/29cb3695922f31c1ae8ba5d0c96d74f1adf7b960) Merge pull request #8457 from lucyd-devs/add-lucyd — _commit10, 2026-11-05_
+- [`e6c0a4d`](https://github.com/public-apis/public-apis/commit/e6c0a4dffb81b2027fb5d465079a81ff42f989ec) Merge pull request #8454 from theprincesajjad/add-rebatehub-api — _commit10, 2026-11-05_
+- [`2444908`](https://github.com/public-apis/public-apis/commit/24449089c5361b283068b7ff9b11a757937a3840) Merge pull request #8452 from dhawton/add-pdfdispatch — _commit10, 2026-11-05_
+- [`7554306`](https://github.com/public-apis/public-apis/commit/755430626d4c1d5ce0d82f33608ccacbd0da90f1) Merge pull request #8450 from mdiz26/add-tryhired-api — _commit10, 2026-11-05_
+- [`db81518`](https://github.com/public-apis/public-apis/commit/db81518c172fe9393c47398d8fa189bb932f3f79) Merge pull request #8448 from vitalityfit/patch-2 — _commit10, 2026-11-05_
+- [`e571ff4`](https://github.com/public-apis/public-apis/commit/e571ff44ee32f63ef1e7e9f3bfce35e9760cc5b8) Merge pull request #8446 from alexeimolin/add-xrates — _commit10, 2026-11-05_
+- [`1252058`](https://github.com/public-apis/public-apis/commit/12520581bf893e930c072bbc2ad0e37e83456efb) Merge pull request #8443 from cahthuranag/add-allratestoday-central-bank — _commit10, 2026-11-05_
+- [`7e1a4b9`](https://github.com/public-apis/public-apis/commit/7e1a4b91b18e375989071de46be4ee6521d25cb8) Merge pull request #8435 from bodyegypt/add-turkpidya — _commit10, 2026-11-05_
+- [`c9e1f76`](https://github.com/public-apis/public-apis/commit/c9e1f76f5c228fb3c7618830c262fe4d133fea36) Merge pull request #8432 from tuannx/add-nhtsa-edge-vin-decoder — _commit10, 2026-11-05_
+- [`b57a250`](https://github.com/public-apis/public-apis/commit/b57a250413232767554ac8e773f131431c1b3c86) Merge pull request #8429 from MrDebugger/add-ek-litre — _commit10, 2026-11-05_
+- [`794d2f0`](https://github.com/public-apis/public-apis/commit/794d2f09516f9855f75f7e35fbebd64222c9bd9e) Merge pull request #8427 from luxiaolei/luxiaolei-patch-1 — _commit10, 2026-11-05_
+- [`6dd403d`](https://github.com/public-apis/public-apis/commit/6dd403dbb59ab8190eb0a8c055086f147e2c036c) Merge pull request #8426 from josh10111/add-caliberapi — _commit10, 2026-11-05_
+- [`4670130`](https://github.com/public-apis/public-apis/commit/4670130dd4a8efba60f1badfb0eb90b1d95ecf9c) Merge pull request #8424 from AlonHarpaz/add-logoapi — _commit10, 2026-11-05_
+
+### [grafana/grafana](https://github.com/grafana/grafana)
+
+- [`68df7b6`](https://github.com/grafana/grafana/commit/68df7b6065f9724a7273e90987615b0aaa25355c) I18n: Download translations from Crowdin (#137165) — _grafana-pr-automation[bot], 2026-11-06_
+- [`b93ae2b`](https://github.com/grafana/grafana/commit/b93ae2b464e468c6b0ad0d88f06c05174cd8d1c3) Variables: Add an Enterprise slot for the shared variables tool (#137053) — _Haris Rozajac, 2026-11-05_
+- [`133fd28`](https://github.com/grafana/grafana/commit/133fd282af9c32911b60e7cfae685377b4f0723d) Dashboards: Leave Composer on Escape (#137160) — _Kristina Demeshchik, 2026-11-05_
+- [`21cdebc`](https://github.com/grafana/grafana/commit/21cdebc701d046977d3f5c4fcbe0570b90303444) Alerting: use K8s-safe fallback UIDs for legacy receivers and migrate their permissions (#136919) — _Matthew Jacobson, 2026-11-05_
+- [`744554c`](https://github.com/grafana/grafana/commit/744554ca893f317abb94a840071a5465ed6b3814) Alerting: persist receiver UIDs (#136918) — _Matthew Jacobson, 2026-11-05_
+- [`97dec9c`](https://github.com/grafana/grafana/commit/97dec9cca6ce17464b8ed08994a8aab5a7f827b7) Alerting: authorize rule notification settings by receiver UID (#136917) — _Matthew Jacobson, 2026-11-05_
+- [`a4c01a3`](https://github.com/grafana/grafana/commit/a4c01a3efaeb9719c8e1f1f6d884179b5738dc15) Alerting: stop updating template UID on rename and allow custom UID (#136933) — _Matthew Jacobson, 2026-11-05_
+- [`40079dd`](https://github.com/grafana/grafana/commit/40079dd0e72189b761b6603a4d1e9b174b9f328b) Alerting: Migrate QueryAndExpressionsStep to async DataSource API (#136572) — _Marcus Andersson, 2026-11-05_
+- [`0538f91`](https://github.com/grafana/grafana/commit/0538f91fb9ef0c394149e5a5a07a6f66d83d22e3) Log Details Stack Trace: Add support to display full screen (#137088) — _Matias Chomicki, 2026-11-05_
+- [`d750e2b`](https://github.com/grafana/grafana/commit/d750e2b23c726da567e20b754da8ce1a54d15c42) Notebooks: Add a server-assigned id to layout items (#137129) — _Juan Cabanas, 2026-11-05_
+- [`0563137`](https://github.com/grafana/grafana/commit/05631377b656c2c4f1e24b6dbbe305535077d5a7) Notebooks: Make the mode picker a single dropdown (#137151) — _Kristina Demeshchik, 2026-11-05_
+- [`05f92aa`](https://github.com/grafana/grafana/commit/05f92aad7ed0ce5629c764aa82244e44dfbf9d3a) IAM: Add startup opt-in for AuthZ delegation checks (#136764) — _Mihai Turdean, 2026-11-05_
+- [`dcab9da`](https://github.com/grafana/grafana/commit/dcab9da430bc54ba3fcfccc32de51f4afc624bb1) Folders: Add a counter for folder count requests by caller and outcome (#137148) — _maicon, 2026-11-05_
+- [`6a851d5`](https://github.com/grafana/grafana/commit/6a851d5c528cf810fcbe712109381fcc173f01ae) Alerting: read receiver UIDs from the stored configuration (#136916) — _Matthew Jacobson, 2026-11-05_
+- [`0620e81`](https://github.com/grafana/grafana/commit/0620e81875cd58309c834c7cb1adb5a3786a2462) Alerting: replace invalid UIDs with a K8s-safe derived UID (#136932) — _Matthew Jacobson, 2026-11-05_
+- [`a30cc15`](https://github.com/grafana/grafana/commit/a30cc15f5c15d8f728ea2c254edd811336828080) Docs: update empty dashboard state (#137147) — _Isabel Matwawana, 2026-11-05_
+- [`fb5fbe1`](https://github.com/grafana/grafana/commit/fb5fbe1f6d9386ab3d96323313fb8fc3558e7266) Query Editor: Add cards from the gap between cards in stacked view (#136965) — _Ihor Yeromin, 2026-11-05_
+- [`587bb74`](https://github.com/grafana/grafana/commit/587bb74c47f0d95f5eec9bac5ee98ca80a61a185) Alerting: Use the policy preview hook in the rule form notification preview (#136896) — _Rodrigo Vasconcelos de Barros, 2026-11-05_
+- [`35469ae`](https://github.com/grafana/grafana/commit/35469ae59d3f9a6d4bedbafe47b7d19a78c58433) Query Editor: Show panel query options in stacked view (#136753) — _Ihor Yeromin, 2026-11-05_
+- [`52ca8c6`](https://github.com/grafana/grafana/commit/52ca8c6af5b897debbf3a66aab5fe234f341335b) Alerting: Migrate notification template editor to CodeMirror (#137004) — _Sean Griffin, 2026-11-05_
+- [`2aa67a3`](https://github.com/grafana/grafana/commit/2aa67a3b559f7acb7a92f543162925c323aa141a) Folders: Add a counter for folder delete check outcomes (#137104) — _maicon, 2026-11-05_
+- [`3015ac6`](https://github.com/grafana/grafana/commit/3015ac6acf7023ae9617fd176dd85c9294825e83) Alerting: preparation for persisting receiver UIDs (#136915) — _Matthew Jacobson, 2026-11-05_
+- [`1793c59`](https://github.com/grafana/grafana/commit/1793c59c2806bc1d82a8aaaed3ad8aebd396ca81) IAM: Reject password changes in the k8s user service (#137125) — _Mihai Doarna, 2026-11-05_
+- [`3b052b2`](https://github.com/grafana/grafana/commit/3b052b27f7d0595966f940be21cf02faa72c67d0) Alerting: Adopt the notification settings hooks in the rule form (#136895) — _Rodrigo Vasconcelos de Barros, 2026-11-05_
+- [`05d979e`](https://github.com/grafana/grafana/commit/05d979e339859c726ab1b7a8f6d2e74ee5b21c8a) Provisioning: Keep secrets out of git repositories (#137077) — _Roberto Jiménez Sánchez, 2026-11-05_
+- [`86464c2`](https://github.com/grafana/grafana/commit/86464c2cdb1db7b7e167027746c9d045ef568dda) Dashboards: Leave the pending changes preview after applying or discarding them (#137123) — _Dominik Broj, 2026-11-05_
+- [`dd00f27`](https://github.com/grafana/grafana/commit/dd00f27f153e6148db26c4f022a6dcf3193ba615) Alerting: stop relying on template UIDs being derived from titles (#136931) — _Matthew Jacobson, 2026-11-05_
+- [`71761f7`](https://github.com/grafana/grafana/commit/71761f7c035c73c976930e599f36de4b1f2e534c) Unified storage: Replace regexp in kv.IsValidKey with a lookup table (#137126) — _Rafael Bortolon Paulovic, 2026-11-05_
+- [`c972add`](https://github.com/grafana/grafana/commit/c972add0b9dd1c1641f9bbf35c7d672134615441) Unified storage: Return native gRPC errors from blob store (#137116) — _gngrchrl, 2026-11-05_
+- [`8e74816`](https://github.com/grafana/grafana/commit/8e7481627931f7757f37790653b09d460fa01479) Docs: APIs - Preferences (#137119) — _Anna Urbiztondo, 2026-11-05_
+
+### [prometheus/prometheus](https://github.com/prometheus/prometheus)
+
+- [`62aca18`](https://github.com/prometheus/prometheus/commit/62aca1806f5b9a6d13b91951e5184894d61e1be4) promtool: Report TSDB disk usage by metric name (#16701) — _Victor Herrero Otal, 2026-11-05_
+- [`8ce8879`](https://github.com/prometheus/prometheus/commit/8ce8879f82c12994370f2efe1337f91c65465dcc) tsdb/agent [PERF]: clear pooled appender references and preallocate sampleSeries (#20320) — _Bartlomiej Plotka, 2026-11-05_
+- [`4bfb6bb`](https://github.com/prometheus/prometheus/commit/4bfb6bb5b3dbecb86f81c687cae9885ecfefb3a2) docs: require raw benchstat output and commit links in AGENTS.md (#20332) — _Bartlomiej Plotka, 2026-11-05_
+- [`85d826f`](https://github.com/prometheus/prometheus/commit/85d826fd0c00dee2b79c320525fd9766a0e5495d) Merge pull request #20335 from aknuds1/arve/accept-colon-grouping-labels — _Julien, 2026-11-05_
+- [`2911912`](https://github.com/prometheus/prometheus/commit/291191278284f95f0ea7b92dbb0da27ea080f5ab) promql: accept unquoted colons in grouping labels again — _Arve Knudsen, 2026-11-05_
+- [`a177947`](https://github.com/prometheus/prometheus/commit/a1779478f358c7367bb6a1206d59515dda48bd06) tsdb: don't store start timestamps in chunks without st-storage (#20073) — _Arve Knudsen, 2026-11-05_
+- [`cd592ae`](https://github.com/prometheus/prometheus/commit/cd592ae6ed8d8712ce3c3053c4e9ec4b58dd388f) Merge pull request #20265 from prometheus/krajo/min-max-of-nan — _George Krajcsovits, 2026-11-05_
+- [`3ba9257`](https://github.com/prometheus/prometheus/commit/3ba925757f8ff39315e7530414e51652379a710b) tsdb/agent: implement storage.GetRef on appenders (#20317) — _Bartlomiej Plotka, 2026-11-05_
+- [`1e227c9`](https://github.com/prometheus/prometheus/commit/1e227c985bf727258ca2d8d5826cd12f48b16888) tsdb, agent: give the start-timestamp zero sample its start timestamp (#20074) — _Arve Knudsen, 2026-11-04_
+- [`20e94e8`](https://github.com/prometheus/prometheus/commit/20e94e8b54b2cf608ed46bf76858bbebce9afdee) rules: add optional metadata to recording rules (#20243) — _Bartlomiej Plotka, 2026-11-04_
+- [`c41561f`](https://github.com/prometheus/prometheus/commit/c41561f4b0477f6dc9b2c341e7b8373d07094ad8) Merge pull request #20309 from roidelapluie/roidelapluie/duration-min-max-nan — _Julien, 2026-11-04_
+- [`798401c`](https://github.com/prometheus/prometheus/commit/798401c7557d0ce4a9b8521e8087b89b42c9089a) logging: share LogValue test assertions (#19698) — _Arve Knudsen, 2026-11-04_
+- [`f23796d`](https://github.com/prometheus/prometheus/commit/f23796d55918b9a0b86abb206876248e9d5f0444) tsdb/agent: stop the truncate loop before Close takes the DB lock (#20301) — _Kyle Eckhart, 2026-11-04_
+- [`77a0112`](https://github.com/prometheus/prometheus/commit/77a0112b71cf891b2eb01c49255b874e8a9cebbd) tsdb/chunkenc: restore write position when reopening chunks (#19918) — _Inanna Malick, 2026-11-04_
+- [`f0bf974`](https://github.com/prometheus/prometheus/commit/f0bf974a66a488b25b937f011f17bb0b4024b168) tsdb/chunks: close head chunk file after repair read error (#20002) — _Shane, 2026-11-04_
+- [`e7bb99b`](https://github.com/prometheus/prometheus/commit/e7bb99b92a6a654accf904dade9bf19a9db58f1a) Merge pull request #20299 from locker95/fix/om-exemplar-label-unescape — _Julien, 2026-11-04_
+- [`ca638d7`](https://github.com/prometheus/prometheus/commit/ca638d7f176244012e37fc454b18eb3d37f13432) promql: align duration min_of and max_of NaN handling — _Julien Pivotto, 2026-11-04_
+- [`ac85e06`](https://github.com/prometheus/prometheus/commit/ac85e06f5a45bb80186bca49072f062863ba738b) labels: add unit test coverage for StringNoSpace, hashing, and matcher helpers (#20256) — _Aditya Raj, 2026-11-03_
+- [`fda5757`](https://github.com/prometheus/prometheus/commit/fda5757b3436392d8d7af0c29fded2305ddf74f4) textparse: unescape OpenMetrics exemplar label names and values — _Dean Chen, 2026-11-03_
+- [`4a933f8`](https://github.com/prometheus/prometheus/commit/4a933f89fa96c56ad69e7c02dc5f40e06d93440e) tsdb: keep head chunk file numbering monotonic across truncation (#20149) — _Huang-404-Q, 2026-11-03_
+- [`a61f1a9`](https://github.com/prometheus/prometheus/commit/a61f1a95fec0422556464a4bfdfcd1e13bb9af62) config: update yaml/v2 to v2.4.5 (#20295) — _Julien, 2026-11-03_
+- [`8b21173`](https://github.com/prometheus/prometheus/commit/8b21173a0c409cd91e94246c13ce219985570275) Merge pull request #20259 from hnrydvd/docs/https-web-config-toolkit-v0.20 — _George Krajcsovits, 2026-11-03_
+- [`caebd2c`](https://github.com/prometheus/prometheus/commit/caebd2cf97a5b09ffab38a276f642348c58eef10) util/searchexpr: add boolean search expression parser (#20235) — _Andrew Hall, 2026-11-03_
+- [`097e478`](https://github.com/prometheus/prometheus/commit/097e4784abcf032a0314a28136100704f33b3c0d) Merge pull request #20258 from adityacosmos24/rules-flaky-update-when-stopped — _George Krajcsovits, 2026-11-03_
+- [`96ca0f7`](https://github.com/prometheus/prometheus/commit/96ca0f7f16d4b28da4511b61394c3210ae47a255) Merge pull request #20250 from adityacosmos24/rulefmt-multidoc-warning — _George Krajcsovits, 2026-11-03_
+- [`c7c5927`](https://github.com/prometheus/prometheus/commit/c7c5927a6e85addcc211760e824e70f50db7eaf9) Merge pull request #20251 from adityacosmos24/promtool-tsdb-dump-iterator-error — _George Krajcsovits, 2026-11-03_
+- [`c41aaf8`](https://github.com/prometheus/prometheus/commit/c41aaf860991f4eda7ff5f6f7a93c3be1203756c) promql: preserve exact quantile values (#20180) — _perfloop[bot], 2026-11-03_
+- [`62a2649`](https://github.com/prometheus/prometheus/commit/62a2649f8a6145d4746928d4d23eafd4544f3974) tsdb: honor head isolation in streamed remote reads (#20184) — _perfloop[bot], 2026-11-03_
+- [`b0c3a30`](https://github.com/prometheus/prometheus/commit/b0c3a30ab2a09b88e64d876017a0134aa2f38f40) build: create manifests with buildx imagetools (#20229) — _Solomon Jacobs, 2026-11-02_
+- [`fabaf6c`](https://github.com/prometheus/prometheus/commit/fabaf6c0ebfb5db052152f77ed8ccd6867db98c9) chore: add contributor-trust skill and rank pr-triage-board by author trust (#20263) — _Bartlomiej Plotka, 2026-11-02_
+
+---
+
+## 趋势 / 行业维度
+
+### 🌟 Trending — Star 增速 Top 10
+
+| Repository | Stars | +本周 | Language |
+|---|---|---|---|
+| [morluto/rea](https://github.com/morluto/rea) | 434,947 | +21967 | TypeScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 274,009 | +7129 | TypeScript |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 496,456 | +2862 | Python |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 260,928 | +1993 | Python |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 199,005 | +1832 | TypeScript |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 224,839 | +1453 | TypeScript |
+| [ollama/ollama](https://github.com/ollama/ollama) | 186,042 | +640 | Go |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 393,996 | +496 | TypeScript |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 209,652 | +489 | TypeScript |
+| [langgenius/dify](https://github.com/langgenius/dify) | 160,500 | +452 | Python |
+
+### ⚡ Commit 活跃度 Top 10
+
+| Repository | Commits | Language |
+|---|---|---|
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 30 | TypeScript |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 30 | TypeScript |
+| [morluto/rea](https://github.com/morluto/rea) | 30 | TypeScript |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 30 | TypeScript |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 30 | Python |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 30 | TypeScript |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 30 | TypeScript |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 30 | TypeScript |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 30 | Python |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | 30 | Python |
+
+### 👨‍💻 活跃开发者 Top 10
+
+| Author | Commits | Repos | Languages |
+|---|---|---|---|
+| commit10 | 30 | 1 | Python |
+| Maciej Lisiewski | 20 | 1 | Python |
+| kubernetes-prow[bot] | 20 | 1 | Go |
+| Nicholas Tindle | 15 | 1 | Python |
+| winewill | 14 | 1 | TypeScript |
+| majestic-owl448 | 13 | 1 | TypeScript |
+| Dax | 12 | 1 | TypeScript |
+| yyh | 12 | 1 | Python |
+| Peter Steinberger | 9 | 1 | TypeScript |
+| Vincent Koc | 8 | 1 | TypeScript |
+
+### 📊 热门技术栈
+
+- TypeScript — 240 commits
+- Python — 185 commits
+- Go — 79 commits
+- Rust — 8 commits
+
+### 🔑 关键词热度
+
+本周共扫描 **20** 个活跃关键词，覆盖 **19** 个仓库。
+
+**Top:** `ai`(321) `agent`(188) `llm`(173) `gpt`(109) `rust`(62) `deep-learning`(60) `machine-learning`(60) `prometheus`(60) `react`(60) `chatgpt`(33) `sql`(32) `postgres`(32)
+
+### 📋 分领域动态
+
+#### AI — 1012 commits / 18 repos
+
+> `ai`, `agent`, `llm`, `gpt`, `deep-learning`
+
+- **ai**: 321 commits, 18 repos  
+  _e.g. fix(curriculum): explain Python keyword arguments (#71587)_
+- **agent**: 188 commits, 9 repos  
+  _e.g. feat(desktop): keep an agentenv computer up and drive it through REA's MCP tools (#9041)_
+- **llm**: 173 commits, 8 repos  
+  _e.g. fix(remote-config): restore the caller's home when the token scope build fails_
+- **gpt**: 109 commits, 4 repos  
+  _e.g. fix(remote-config): restore the caller's home when the token scope build fails_
+- **deep-learning**: 60 commits, 2 repos  
+  _e.g. Subconfig creation in testers (#49528)_
+
+#### Rust — 62 commits / 4 repos
+
+> `rust`
+
+- **rust**: 62 commits, 4 repos  
+  _e.g. fix(ui): reduce style work during transcript scrolling (#193920)_
+
+#### Security — 45 commits / 10 repos
+
+> `security`, `auth`
+
+- **security**: 31 commits, 2 repos  
+  _e.g. feat(desktop): keep an agentenv computer up and drive it through REA's MCP tools (#9041)_
+- **auth**: 14 commits, 8 repos  
+  _e.g. feat(plugins): reauthorize accepted session work (#176886)_
+
+#### DevOps — 120 commits / 3 repos
+
+> `prometheus`, `kubernetes`, `grafana`
+
+- **prometheus**: 60 commits, 2 repos  
+  _e.g. I18n: Download translations from Crowdin (#137165)_
+- **kubernetes**: 30 commits, 1 repos  
+  _e.g. Merge pull request #143747 from romanbaron/opportunistic-batching-test-typo_
+- **grafana**: 30 commits, 1 repos  
+  _e.g. I18n: Download translations from Crowdin (#137165)_
+
+#### Database — 94 commits / 3 repos
+
+> `sql`, `postgres`, `mysql`
+
+- **sql**: 32 commits, 3 repos  
+  _e.g. fix(ci): avoid unrelated PostgreSQL runs and admit owned tests (#193870)_
+- **postgres**: 32 commits, 2 repos  
+  _e.g. fix(ci): avoid unrelated PostgreSQL runs and admit owned tests (#193870)_
+- **mysql**: 30 commits, 1 repos  
+  _e.g. I18n: Download translations from Crowdin (#137165)_
+
+#### Frontend — 60 commits / 2 repos
+
+> `react`
+
+- **react**: 60 commits, 2 repos  
+  _e.g. fix(curriculum): revert RPG certification project duplication (#71590)_
+
+---
+
+## Statistics
+
+- Repos tracked: 20 (6 manual + 14 discovered)
+- Repos with new commits: 19
+- Commits analyzed: 512
+- New trending repos discovered: 0
+- Generated: 2026-11-06T04:14:01.391Z
